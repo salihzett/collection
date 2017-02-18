@@ -1,1 +1,1 @@
-# sz_collection
+# macOS collection
