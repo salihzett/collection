@@ -12,3 +12,23 @@
 - [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases)
 - [Pacifist](https://www.charlessoft.com)
 - [Packages](http://packages.debian.org)
+
+#####Useful applications for macOS productivity
+- [1Passwort](https://itunes.apple.com/de/app/1password/id443987910)
+- [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161)
+- [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456)
+- [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936)
+- [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838)
+- [MacPass](http://mstarke.github.io/MacPass/)
+- [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12)
+- [Things](https://itunes.apple.com/de/app/things/id407951449)
+- [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724)
+
+#####Useful applications for macOS utilities
+- [Caffeine](http://lightheadsw.com/caffeine/)
+- [GPG Suite](https://gpgtools.org)
+- [iStat Menus](https://bjango.com/mac/istatmenus/)
+- [Magnet](https://itunes.apple.com/de/app/magnet/id441258766)
+- [Tunnelblick](https://tunnelblick.net/index.html)
+- [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
