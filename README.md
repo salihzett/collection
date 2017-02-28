@@ -2,7 +2,7 @@
 
 - [macOS admins](#useful-applications-for-macos-admins)
 - [macOS productivity](#useful-applications-for-macos-productivity)
-- [macOS utilities](#useful-applications-for-macOS-utilities)
+- [macOS utilities](#useful-applications-for-macos-utilities)
 
 
 #####Useful applications for macOS admins
