@@ -1,4 +1,10 @@
-# macOS collection
+# macOS software collection
+
+[macOS admins](#Useful applications for macOS admins)
+[macOS productivity](#Useful applications for macOS productivity)
+[macOS utilities](#Useful applications for macOS utilities)
+
+
 #####Useful applications for macOS admins
 - [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344)
 - [Apple Remote Desktop](https://itunes.apple.com/de/app/apple-remote-desktop/id409907375)
