@@ -23,6 +23,7 @@
 #####Useful tools for macOS admins
 - [first-boot](https://github.com/grahamgilbert/first-boot-pkg)
 - [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator)
+- [quickpkg](https://github.com/scriptingosx/quickpkg) - Build packages quickly
 
 #####Useful links for macOS admins
 - [Apple Software Download](https://support.apple.com/downloads/combo)
