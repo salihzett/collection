@@ -1,8 +1,8 @@
 # macOS software collection
 
 - [macOS admins](#useful-applications-for-macos-admins)
-- [macOS productivity](#Useful-applications-for-macOS-productivity)
-- [macOS utilities](#Useful-applications-for-macOS-utilities)
+- [macOS productivity](#useful-applications-for-macos-productivity)
+- [macOS utilities](#useful-applications-for-macOS-utilities)
 
 
 #####Useful applications for macOS admins
