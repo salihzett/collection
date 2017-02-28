@@ -1,9 +1,10 @@
 # macOS software collection
 
 - [macOS admins](#useful-applications-for-macos-admins)
+- [macOS admin links](#useful-links-for-macos-admins)
 - [macOS productivity](#useful-applications-for-macos-productivity)
 - [macOS utilities](#useful-applications-for-macos-utilities)
-
+- [macOS server tools](#useful-server-tools-for-macos)
 
 #####Useful applications for macOS admins
 - [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344)
@@ -19,6 +20,15 @@
 - [Pacifist](https://www.charlessoft.com)
 - [Packages](http://packages.debian.org)
 
+#####Useful tools for macOS admins
+- [first-boot](https://github.com/grahamgilbert/first-boot-pkg)
+- [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator)
+
+#####Useful links for macOS admins
+- [Apple Software Download](https://support.apple.com/downloads/combo)
+- [Apple Software OpenSource](https://opensource.apple.com)
+- [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4)
+
 #####Useful applications for macOS productivity
 - [1Passwort](https://itunes.apple.com/de/app/1password/id443987910)
 - [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161)
@@ -33,8 +43,17 @@
 #####Useful applications for macOS utilities
 - [Caffeine](http://lightheadsw.com/caffeine/)
 - [GPG Suite](https://gpgtools.org)
+- [homebrew](https://brew.sh) - The missing package manager for macOS
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
+- [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - macOS command line tools for developers
+- [MagicPrefs](http://magicprefs.com/plugins/) - MagicPrefs plugins
 - [Magnet](https://itunes.apple.com/de/app/magnet/id441258766)
 - [Tunnelblick](https://tunnelblick.net/index.html)
 - [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+#####Useful server tools for macOS
+- [DeployStudio](http://www.deploystudio.com) - Image. Deploy. Configure.
+- [munki](https://github.com/munki/munki) - Managed software installation for OS X
+- [munkireport](https://github.com/munkireport/munkireport-php) - A reporting tool for munki
+- [munki-reband](https://github.com/ox-it/munki-rebrand) - Script to rebrand Munki's Managed Software Center, [manual](http://macadamia.bochoven.net/munki/creating_a_custom_munki_installer/)
