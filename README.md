@@ -1,4 +1,4 @@
-# macOS software collection
+# macOS collection
 
 - [macOS admins](#useful-applications-for-macos-admins)
 - [macOS admin links](#useful-links-for-macos-admins)
