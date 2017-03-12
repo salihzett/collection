@@ -15,6 +15,7 @@
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | ... |
 | [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | ... |
 | [DiskMaker X](http://diskmakerx.com) | ... |
+| [Dpcker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
 | [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
 | [DiskMaker X](http://diskmakerx.com) | ... |
@@ -60,6 +61,7 @@
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
+| [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Tunnelblick](https://tunnelblick.net/index.html) | OpenVPN Client for macOS |
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
 | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | ... |
