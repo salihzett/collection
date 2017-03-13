@@ -43,10 +43,11 @@
 | --- | --- |
 | [1Passwort](https://itunes.apple.com/de/app/1password/id443987910) | ... |
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
-| [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
+| [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456) | ... |
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
 | [MacPass](http://mstarke.github.io/MacPass/) | ... |
+| [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
 | [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) | ... |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
 | [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724) | ... |
@@ -60,7 +61,7 @@
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
-| [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
+| [Node.js](https://nodejs.org/en/) | ... |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Tunnelblick](https://tunnelblick.net/index.html) | OpenVPN Client for macOS |
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
