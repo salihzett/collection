@@ -2,8 +2,7 @@
 
 - [macOS admins](#useful-applications-for-macos-admins)
 - [macOS admin links](#useful-links-for-macos-admins)
-- [macOS productivity](#useful-applications-for-macos-productivity)
-- [macOS utilities](#useful-applications-for-macos-utilities)
+- [macOS applications](#useful-applications-for-macos)
 - [macOS server tools](#useful-server-tools-for-macos)
 
 #####Useful applications for macOS admins
@@ -29,8 +28,13 @@
 | --- | --- |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | ... |
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | ... |
+| [homebrew](https://brew.sh) | The missing package manager for macOS  |
+| [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
+| [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
+| [Paket Sender](https://packetsender.com) | Packet Sender is for sending / receiving of network packets. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | ... |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | Build packages quickly |
+| [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 
 #####Useful links for macOS admins
 | Links | Description |
@@ -39,33 +43,25 @@
 | [Apple Software OpenSource](https://opensource.apple.com) | ... |
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | Build packages quickly |
 
-#####Useful applications for macOS productivity
+#####Useful applications for macOS 
 | Software | Description |
 | --- | --- |
 | [1Passwort](https://itunes.apple.com/de/app/1password/id443987910) | ... |
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
 | [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456) | ... |
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
+| [Caffeine](http://lightheadsw.com/caffeine/) | ... |
+| [GPG Suite](https://gpgtools.org) | ... |
+| [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
 | [MacPass](http://mstarke.github.io/MacPass/) | ... |
+| [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
 | [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) | ... |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
-| [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724) | ... |
-
-#####Useful applications for macOS utilities
-| Software | Description |
-| --- | --- |
-| [Caffeine](http://lightheadsw.com/caffeine/) | ... |
-| [GPG Suite](https://gpgtools.org) | ... |
-| [homebrew](https://brew.sh) | The missing package manager for macOS  |
-| [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
-| [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
-| [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
-| [Node.js](https://nodejs.org/en/) | ... |
-| [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Tunnelblick](https://tunnelblick.net/index.html) | OpenVPN Client for macOS |
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
+| [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724) | ... |
 | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | ... |
 
 #####Useful server tools for macOS
