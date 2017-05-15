@@ -79,6 +79,14 @@
 | --- | --- |
 | [Apple Software Download](https://support.apple.com/downloads/combo) | ... |
 | [Apple Software OpenSource](https://opensource.apple.com) | ... |
+| [Apple Certified Professionals Registry](https://i7lp.integral7.com/durango/do/pr/prSearch?ownername=apple) | ... |
+| [Apple Training and Certification](http://training.apple.com/en/certification) | ... |
+| [Apple Exchange + Repair Extension Programm](https://www.apple.com/support/exchange_repair/) | ... |
+| [Conf: MacAD](http://www.macad.uk) | Mac Admin & Developer Conference UK |
+| [Conf: MacAdmins Conference at Penn State](http://macadmins.psu.edu) | MacAdmins Conference at Penn State |
+| [Conf: MacSysAdmin](http://www.macsysadmin.se/2017/) | MacSysAdmin 2017 is the forum for Mac & iOS Administrators |
+| [Conf: MacTechPro](http://pro.mactech.com) | ... |
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | Build packages quickly |
 | [Web: macOS SSH Key](http://www.macadminmonthly.org) | Saving SSH keys in macOS Sierra keychain |
+
 
