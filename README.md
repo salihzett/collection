@@ -77,6 +77,7 @@
 
 | Links | Description |
 | --- | --- |
+| [Apple Exchange and Repair Extension Programs](https://www.apple.com/support/exchange_repair/) | This page lists all programs currently offered by Apple, including Replacement programs, Exchange programs, Repair Extension programs and Recalls. |
 | [Apple Software Download](https://support.apple.com/downloads/combo) | ... |
 | [Apple Software OpenSource](https://opensource.apple.com) | ... |
 | [Apple Certified Professionals Registry](https://i7lp.integral7.com/durango/do/pr/prSearch?ownername=apple) | ... |
