@@ -57,6 +57,7 @@
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
 | [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) | ... |
+| [SuperDuper](https://www.mactechnews.de/news/article/SuperDuper-3-0-Backup-Tool-fit-fuer-High-Sierra-168289.html) | Full Backup Tool |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
 | [Tunnelblick](https://tunnelblick.net/index.html) | OpenVPN Client for macOS |
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
