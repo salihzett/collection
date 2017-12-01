@@ -15,7 +15,7 @@
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | ... |
 | [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | ... |
 | [DiskMaker X](http://diskmakerx.com) | ... |
-| [Dpcker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
+| [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
 | [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
 | [DiskMaker X](http://diskmakerx.com) | ... |
@@ -23,6 +23,7 @@
 | [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | ... |
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
+| [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
 
 ##### Useful tools for macOS admins
@@ -49,10 +50,12 @@
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
 | [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456) | ... |
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
+| [ApplePi-Baker](https://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) | Tool to create OS for raspberry |
 | [Caffeine](http://lightheadsw.com/caffeine/) | ... |
 | [GPG Suite](https://gpgtools.org) | ... |
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
+| [Keka](http://www.kekaosx.com/de/) | ... |
 | [MacPass](http://mstarke.github.io/MacPass/) | ... |
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
@@ -90,5 +93,3 @@
 | [Conf: MacTechPro](http://pro.mactech.com) | ... |
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | Build packages quickly |
 | [Web: macOS SSH Key](http://www.macadminmonthly.org) | Saving SSH keys in macOS Sierra keychain |
-
-
