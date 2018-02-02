@@ -12,15 +12,18 @@
 | [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344) | ... |
 | [Apple Remote Desktop](https://itunes.apple.com/de/app/apple-remote-desktop/id409907375) | ... |
 | [AutoDMG](https://github.com/MagerValp/AutoDMG/releases) | ... |
+| [AutoImagrNBI](https://github.com/macmule/AutoImagrNBI) | AutoCasperNBI variant for use with Imagr |
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | ... |
 | [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | ... |
 | [DiskMaker X](http://diskmakerx.com) | ... |
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
-| [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
 | [DiskMaker X](http://diskmakerx.com) | ... |
+| [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
+| [Imagr](https://github.com/grahamgilbert/imagr) | ... |
 | [MacTracker](http://mactracker.ca) | ... |
 | [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | ... |
+| [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
@@ -32,6 +35,7 @@
 | --- | --- |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | ... |
 | [fing.io](https://www.fing.io/download-free-ip-scanner-for-desktop-linux-windows-and-osx/) | IP Network Scanner |
+| [dotfiles](https://dotfiles.github.io/) | |
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | ... |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
