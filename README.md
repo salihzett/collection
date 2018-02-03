@@ -11,10 +11,12 @@
 | --- | --- |
 | [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344) | ... |
 | [Apple Remote Desktop](https://itunes.apple.com/de/app/apple-remote-desktop/id409907375) | ... |
-| [AutoDMG](https://github.com/MagerValp/AutoDMG/releases) | ... |
+| [AutoDMG](https://github.com/MagerValp/AutoDMG) | Create deployable system images from OS X installer |
 | [AutoImagrNBI](https://github.com/macmule/AutoImagrNBI) | AutoCasperNBI variant for use with Imagr |
-| [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | ... |
-| [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | ... |
+| [AutoPkg](https://github.com/autopkg/autopkg) | Automating packaging and software distribution on OS X. |
+| [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg. |
+| [AutoNBI.py](https://github.com/bruienne/autonbi) | A tool to automate (or not) the building and customization of Apple NetInstall Images. |
+| [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | This project has been archived and is no longer maintained |
 | [DiskMaker X](http://diskmakerx.com) | ... |
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
@@ -22,7 +24,8 @@
 | [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
 | [Imagr](https://github.com/grahamgilbert/imagr) | ... |
 | [MacTracker](http://mactracker.ca) | ... |
-| [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | ... |
+| [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
+| [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | OS X GUI for managing Munki repositories |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
