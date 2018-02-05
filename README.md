@@ -20,7 +20,7 @@
 | [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | This project has been archived and is no longer maintained |
 | [Crypt](https://github.com/grahamgilbert/crypt) | Crypt 2 is an authorization plugin that will enforce FileVault 2 |
 | [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
-| [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) | ... |
+| [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) | DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. |
 | [DiskMaker X](http://diskmakerx.com) | ... |
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
