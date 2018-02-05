@@ -3,7 +3,8 @@
 - [macOS admins](#useful-applications-for-macos-admins)
 - [macOS admin links](#useful-links-for-macos-admins)
 - [macOS applications](#useful-applications-for-macos)
-- [macOS server tools](#useful-server-tools-for-macos)
+- [macOS tools for macos admin](#useful-tools-for-macos-admins)
+
 
 ##### Useful applications for macOS admins
 
@@ -17,6 +18,9 @@
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg. |
 | [AutoNBI.py](https://github.com/bruienne/autonbi) | A tool to automate (or not) the building and customization of Apple NetInstall Images. |
 | [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | This project has been archived and is no longer maintained |
+| [Crypt](https://github.com/grahamgilbert/crypt) | Crypt 2 is an authorization plugin that will enforce FileVault 2 |
+| [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
+| [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) | ... |
 | [DiskMaker X](http://diskmakerx.com) | ... |
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
@@ -25,10 +29,14 @@
 | [Imagr](https://github.com/grahamgilbert/imagr) | ... |
 | [MacTracker](http://mactracker.ca) | ... |
 | [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
+| [munki](https://github.com/munki/munki) | Managed software installation for OS X |
 | [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | OS X GUI for managing Munki repositories |
+| [munkireport](https://github.com/munkireport/munkireport-php) | A reporting tool for munki |
+| [munki-reband](https://github.com/ox-it/munki-rebrand)  | Script to rebrand Munki's Managed Software Center, [manual](http://macadamia.bochoven.net/munki/creating_a_custom_munki_installer/) |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
+| [Sal](https://github.com/salopensource/sal) | Modular reporting for Munki |
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
 
@@ -73,15 +81,6 @@
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
 | [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724) | ... |
 | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | ... |
-
-##### Useful server tools for macOS
-
-| Software | Description |
-| --- | --- |
-| [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
-| [munki](https://github.com/munki/munki) | Managed software installation for OS X |
-| [munkireport](https://github.com/munkireport/munkireport-php) | A reporting tool for munki |
-| [munki-reband](https://github.com/ox-it/munki-rebrand)  | Script to rebrand Munki's Managed Software Center, [manual](http://macadamia.bochoven.net/munki/creating_a_custom_munki_installer/) |
 
 
 ##### Useful links for macOS admins
