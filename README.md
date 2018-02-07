@@ -52,8 +52,7 @@
 | [dotfiles](https://dotfiles.github.io/) | |
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | ... |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
-| [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email
-    mailboxes between two imap servers, one way, and without duplicates. |
+| [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email mailboxes between two imap servers, one way, and without duplicates. |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
 | [Paket Sender](https://packetsender.com) | Packet Sender is for sending / receiving of network packets. |
