@@ -50,7 +50,7 @@
 | --- | --- |
 | [CronniX](https://code.google.com/archive/p/cronnix/) | CronniX is an Aqua frontend to the powerful Unix tool "cron". |
 | [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
-| [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | ... |
+| [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | Extract App Resource Icons with AppleScript |
 | [fing.io](https://www.fing.io/download-free-ip-scanner-for-desktop-linux-windows-and-osx/) | IP Network Scanner |
 | [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
 | [dotfiles](https://dotfiles.github.io/) | |
