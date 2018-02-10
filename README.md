@@ -114,6 +114,7 @@
 | [Conf: MacAdmins Conference at Penn State](http://macadmins.psu.edu) | MacAdmins Conference at Penn State |
 | [Conf: MacSysAdmin](http://www.macsysadmin.se/2017/) | MacSysAdmin is the forum for Mac & iOS Administrators |
 | [Conf: MacTechPro](http://pro.mactech.com) | ... |
+| [macadmininfo](http://www.macadmin.info) | a resource for beginning and experienced mac/apple administrators. |
 | [macadminscripts](https://github.com/hjuutilainen/adminscripts) | Miscellaneous scripts for mac admins |
 | [macscripts](https://github.com/grahamgilbert/macscripts) | A collection of random Mac scripts |
 | [OSX Collector](https://github.com/Yelp/osxcollector) | A forensic evidence collection & analysis toolkit for OS X [here](http://yelp.github.io/osxcollector) |
