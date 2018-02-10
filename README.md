@@ -3,7 +3,7 @@
 - [macOS admins](#useful-applications-for-macos-admins)
 - [macOS admin links](#useful-links-for-macos-admins)
 - [macOS applications](#useful-applications-for-macos)
-- [macOS tools for macos admin](#useful-tools-for-macos-admins)
+- [macOS tools for admin](#useful-tools-for-macos-admins)
 
 
 ##### Useful applications for macOS admins
@@ -30,6 +30,7 @@
 | [ImagrAdmin](https://github.com/kylecrawshaw/ImagrAdmin/releases) | ImagrAdmin is a GUI application for macOS to update and create configuration plists for Imagr. |
 | [MacTracker](http://mactracker.ca) | ... |
 | [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
+| [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
 | [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | OS X GUI for managing Munki repositories |
 | [munkireport](https://github.com/munkireport/munkireport-php) | A reporting tool for munki |
@@ -42,24 +43,31 @@
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
 
+
 ##### Useful tools for macOS admins
 
 | Tools | Description |
 | --- | --- |
 | [CronniX](https://code.google.com/archive/p/cronnix/) | CronniX is an Aqua frontend to the powerful Unix tool "cron". |
+| [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | ... |
 | [fing.io](https://www.fing.io/download-free-ip-scanner-for-desktop-linux-windows-and-osx/) | IP Network Scanner |
+| [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
 | [dotfiles](https://dotfiles.github.io/) | |
-| [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | ... |
+| [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | A script that will build a package containing packages for first installation at first boot |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
 | [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email mailboxes between two imap servers, one way, and without duplicates. |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
+| [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
+| [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
+| [Munki Generic Icons](https://github.com/aysiu/MunkiGenericIcons) | Copies a generic icon to Munki items with no icons |
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
 | [Paket Sender](https://packetsender.com) | Packet Sender is for sending / receiving of network packets. |
 | [Payload-Free-Package-Creatorio](https://github.com/rtrouton/Payload-Free-Package-Creator) | Payload-Free Package Creator.app is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages.|
-| [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | ... |
-| [quickpkg](https://github.com/scriptingosx/quickpkg) | Build packages quickly |
+| [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
+| [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
+| [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes.|
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 
 
@@ -91,7 +99,6 @@
 | [WineBottler](http://winebottler.kronenberg.org/) | Run Windows-based Programs on a Mac |
 
 
-
 ##### Useful links for macOS admins
 
 | Links | Description |
@@ -106,5 +113,8 @@
 | [Conf: MacAdmins Conference at Penn State](http://macadmins.psu.edu) | MacAdmins Conference at Penn State |
 | [Conf: MacSysAdmin](http://www.macsysadmin.se/2017/) | MacSysAdmin is the forum for Mac & iOS Administrators |
 | [Conf: MacTechPro](http://pro.mactech.com) | ... |
-| [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | Build packages quickly |
+| [macscripts](https://github.com/grahamgilbert/macscripts) | A collection of random Mac scripts |
+| [OSX Collector](https://github.com/Yelp/osxcollector) | A forensic evidence collection & analysis toolkit for OS X [here](http://yelp.github.io/osxcollector) |
+| [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | ... |
+| [Scripting OS X](https://scriptingosx.com) | #! is not a curse word |
 | [Web: macOS SSH Key](http://www.macadminmonthly.org) | Saving SSH keys in macOS Sierra keychain |
