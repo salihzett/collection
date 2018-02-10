@@ -68,6 +68,7 @@
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
 | [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes.|
+| [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 
 
