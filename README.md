@@ -94,7 +94,7 @@
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
 | [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) | ... |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
-| [SuperDuper](https://www.mactechnews.de/news/article/SuperDuper-3-0-Backup-Tool-fit-fuer-High-Sierra-168289.html) | Full Backup Tool |
+| [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | Full Backup Tool |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
 | [Tunnelblick](https://tunnelblick.net/index.html) | OpenVPN Client for macOS |
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
