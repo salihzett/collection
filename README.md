@@ -31,6 +31,7 @@
 | [MacTracker](http://mactracker.ca) | ... |
 | [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
 | [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
+| [Margarita](https://github.com/jessepeterson/margarita) | Web frontend for [reposado](https://github.com/wdas/reposado) |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
 | [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | OS X GUI for managing Munki repositories |
 | [munkireport](https://github.com/munkireport/munkireport-php) | A reporting tool for munki |
@@ -39,6 +40,7 @@
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
+| [reposado](https://github.com/wdas/reposado) | Host Apple Software Updates on the hardware and OS of your choice. |
 | [Sal](https://github.com/salopensource/sal) | Modular reporting for Munki |
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
@@ -57,6 +59,7 @@
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | A script that will build a package containing packages for first installation at first boot |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
 | [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email mailboxes between two imap servers, one way, and without duplicates. |
+| [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
@@ -114,10 +117,12 @@
 | [Conf: MacAdmins Conference at Penn State](http://macadmins.psu.edu) | MacAdmins Conference at Penn State |
 | [Conf: MacSysAdmin](http://www.macsysadmin.se/2017/) | MacSysAdmin is the forum for Mac & iOS Administrators |
 | [Conf: MacTechPro](http://pro.mactech.com) | ... |
+| [krypted](http://krypted.com) | Tiny Deathstars of Foulness. krypted on [github](https://github.com/krypted) |
 | [macadmininfo](http://www.macadmin.info) | a resource for beginning and experienced mac/apple administrators. |
 | [macadminscripts](https://github.com/hjuutilainen/adminscripts) | Miscellaneous scripts for mac admins |
 | [macscripts](https://github.com/grahamgilbert/macscripts) | A collection of random Mac scripts |
 | [OSX Collector](https://github.com/Yelp/osxcollector) | A forensic evidence collection & analysis toolkit for OS X [here](http://yelp.github.io/osxcollector) |
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | ... |
+| [Python Macadmin Tools](https://github.com/timsutton/python-macadmin-tools) | List of open-source Python-based Mac sysadmin tools |
 | [Scripting OS X](https://scriptingosx.com) | #! is not a curse word |
 | [Web: macOS SSH Key](http://www.macadminmonthly.org) | Saving SSH keys in macOS Sierra keychain |
