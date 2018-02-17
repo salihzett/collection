@@ -61,6 +61,7 @@
 | [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email mailboxes between two imap servers, one way, and without duplicates. |
 | [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
+| [LoginLog](https://github.com/MagerValp/LoginLog/) | Display a log window over the login window. |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
 | [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
