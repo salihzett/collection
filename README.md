@@ -119,6 +119,7 @@
 | [Conf: MacSysAdmin](http://www.macsysadmin.se/2017/) | MacSysAdmin is the forum for Mac & iOS Administrators |
 | [Conf: MacTechPro](http://pro.mactech.com) | ... |
 | [krypted](http://krypted.com) | Tiny Deathstars of Foulness. krypted on [github](https://github.com/krypted) |
+| [krypted: command line system information](http://krypted.com/mac-os-x/command-line-system-information/) | command line system information |
 | [macadmininfo](http://www.macadmin.info) | a resource for beginning and experienced mac/apple administrators. |
 | [macadminscripts](https://github.com/hjuutilainen/adminscripts) | Miscellaneous scripts for mac admins |
 | [macscripts](https://github.com/grahamgilbert/macscripts) | A collection of random Mac scripts |
