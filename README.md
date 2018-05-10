@@ -69,6 +69,7 @@
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
 | [Paket Sender](https://packetsender.com) | Packet Sender is for sending / receiving of network packets. |
 | [Payload-Free-Package-Creatorio](https://github.com/rtrouton/Payload-Free-Package-Creator) | Payload-Free Package Creator.app is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages.|
+| [ProfilSigner](https://github.com/nmcspadden/ProfileSigner) | ProfileSigner is a Python script that will encrypt and/or sign a .mobileconfig profile. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
 | [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes.|
@@ -121,6 +122,7 @@
 | [krypted](http://krypted.com) | Tiny Deathstars of Foulness. krypted on [github](https://github.com/krypted) |
 | [krypted: command line system information](http://krypted.com/mac-os-x/command-line-system-information/) | command line system information |
 | [macadmininfo](http://www.macadmin.info) | a resource for beginning and experienced mac/apple administrators. |
+| [macadmins](https://github.com/macadmins) | OSS projects for Mac Admins (Docker, management) |
 | [macadminscripts](https://github.com/hjuutilainen/adminscripts) | Miscellaneous scripts for mac admins |
 | [macscripts](https://github.com/grahamgilbert/macscripts) | A collection of random Mac scripts |
 | [OSX Collector](https://github.com/Yelp/osxcollector) | A forensic evidence collection & analysis toolkit for OS X [here](http://yelp.github.io/osxcollector) |
@@ -128,3 +130,8 @@
 | [Python Macadmin Tools](https://github.com/timsutton/python-macadmin-tools) | List of open-source Python-based Mac sysadmin tools |
 | [Scripting OS X](https://scriptingosx.com) | #! is not a curse word |
 | [Web: macOS SSH Key](http://www.macadminmonthly.org) | Saving SSH keys in macOS Sierra keychain |
+
+
+##### my heros
+| [Greg Neagle](https://github.com/gregneagle) | ... |
+| [Graham Gilbert](https://github.com/grahamgilbert) | ... |
