@@ -32,6 +32,7 @@
 | [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
 | [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
 | [Margarita](https://github.com/jessepeterson/margarita) | Web frontend for [reposado](https://github.com/wdas/reposado) |
+| [microMDM](https://github.com/micromdm) | macOS MDM and related services |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
 | [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | OS X GUI for managing Munki repositories |
