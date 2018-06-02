@@ -8,7 +8,7 @@
 
 ##### Useful applications for macOS admins
 
-| Software | Description |
+| software | description |
 | --- | --- |
 | [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344) | ... |
 | [Apple Remote Desktop](https://itunes.apple.com/de/app/apple-remote-desktop/id409907375) | ... |
@@ -48,7 +48,7 @@
 
 ##### Useful tools for macOS admins
 
-| Tools | Description |
+| tools | description |
 | --- | --- |
 | [CronniX](https://code.google.com/archive/p/cronnix/) | CronniX is an Aqua frontend to the powerful Unix tool "cron". |
 | [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
@@ -67,6 +67,7 @@
 | [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
 | [Munki Generic Icons](https://github.com/aysiu/MunkiGenericIcons) | Copies a generic icon to Munki items with no icons |
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
+| [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
 | [Paket Sender](https://packetsender.com) | Packet Sender is for sending / receiving of network packets. |
 | [Payload-Free-Package-Creatorio](https://github.com/rtrouton/Payload-Free-Package-Creator) | Payload-Free Package Creator.app is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages.|
 | [ProfilSigner](https://github.com/nmcspadden/ProfileSigner) | ProfileSigner is a Python script that will encrypt and/or sign a .mobileconfig profile. |
@@ -79,7 +80,7 @@
 
 ##### Useful applications for macOS 
 
-| Software | Description |
+| software | description |
 | --- | --- |
 | [1Passwort](https://itunes.apple.com/de/app/1password/id443987910) | ... |
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
@@ -107,7 +108,7 @@
 
 ##### Useful links for macOS admins
 
-| Links | Description |
+| links | description |
 | --- | --- |
 | [Apple Exchange and Repair Extension Programs](https://www.apple.com/support/exchange_repair/) | This page lists all programs currently offered by Apple, including Replacement programs, Exchange programs, Repair Extension programs and Recalls. |
 | [Apple Software Download](https://support.apple.com/downloads/combo) | ... |
@@ -133,5 +134,8 @@
 
 
 ##### my heros
+| name | description |
+| --- | --- |
 | [Greg Neagle](https://github.com/gregneagle) | ... |
 | [Graham Gilbert](https://github.com/grahamgilbert) | ... |
+| [Robert I. Percival](https://github.com/robperc) | ... |
