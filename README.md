@@ -17,6 +17,7 @@
 | [AutoPkg](https://github.com/autopkg/autopkg) | Automating packaging and software distribution on OS X. |
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg. |
 | [AutoNBI.py](https://github.com/bruienne/autonbi) | A tool to automate (or not) the building and customization of Apple NetInstall Images. |
+| [BananaEndocarp](https://github.com/clburlison/BananaEndocarp) | BananaEndocarp is a scripted GUI for interacting with MunkiWebAdmin2's API. |
 | [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | This project has been archived and is no longer maintained |
 | [Crypt](https://github.com/grahamgilbert/crypt) | Crypt 2 is an authorization plugin that will enforce FileVault 2 |
 | [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
@@ -43,6 +44,7 @@
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
 | [reposado](https://github.com/wdas/reposado) | Host Apple Software Updates on the hardware and OS of your choice. |
+| [restor](https://github.com/google/restor) | Restor is a user-friendly application to (mass) image macOS computers from a single source |
 | [Sal](https://github.com/salopensource/sal) | Modular reporting for Munki |
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
