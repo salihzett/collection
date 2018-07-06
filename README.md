@@ -56,6 +56,7 @@
 | --- | --- |
 | [CronniX](https://code.google.com/archive/p/cronnix/) | CronniX is an Aqua frontend to the powerful Unix tool "cron". |
 | [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
+| [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | Extract App Resource Icons with AppleScript |
 | [fing.io](https://www.fing.io/download-free-ip-scanner-for-desktop-linux-windows-and-osx/) | IP Network Scanner |
 | [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
@@ -77,8 +78,10 @@
 | [ProfilSigner](https://github.com/nmcspadden/ProfileSigner) | ProfileSigner is a Python script that will encrypt and/or sign a .mobileconfig profile. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
-| [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes.|
+| [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes |
+| [rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts) | useful scripts |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
+| [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 
 
@@ -100,6 +103,7 @@
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
 | [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) | ... |
+| [rEFIt](http://refit.sourceforge.net/doc/c2s1_activate.html) | rEFIt is a boot menu and maintenance toolkit for EFI-based machines like the Intel Macs |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
 | [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | Full Backup Tool |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
