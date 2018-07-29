@@ -1,9 +1,10 @@
-# macOS collection
+## collection
 
 - [macOS admins](#useful-applications-for-macos-admins)
 - [macOS admin links](#useful-links-for-macos-admins)
 - [macOS applications](#useful-applications-for-macos)
 - [macOS tools for admin](#useful-tools-for-macos-admins)
+- [DevOps tools for admin](#useful-tools-for-devops-admins)
 
 
 ##### Useful applications for macOS admins
@@ -140,6 +141,11 @@
 | [Python Macadmin Tools](https://github.com/timsutton/python-macadmin-tools) | List of open-source Python-based Mac sysadmin tools |
 | [Scripting OS X](https://scriptingosx.com) | #! is not a curse word |
 | [Web: macOS SSH Key](http://www.macadminmonthly.org) | Saving SSH keys in macOS Sierra keychain |
+
+##### Useful tools for DevOps admins
+| software | description |
+| --- | --- |
+| [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows |
 
 
 ##### my heros
