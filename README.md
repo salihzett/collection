@@ -129,6 +129,7 @@
 | [Conf: MacSysAdmin](http://www.macsysadmin.se/2017/) | MacSysAdmin is the forum for Mac & iOS Administrators |
 | [Conf: MacTechPro](http://pro.mactech.com) | ... |
 | [defaults-write.com](https://www.defaults-write.com) | Unveil hidden Mac OS X (macOS) Features |
+| [Der Flounder](https://derflounder.wordpress.com) | Seldom updated, occasionally insightful. |
 | [krypted](http://krypted.com) | Tiny Deathstars of Foulness. krypted on [github](https://github.com/krypted) |
 | [krypted: command line system information](http://krypted.com/mac-os-x/command-line-system-information/) | command line system information |
 | [macadmininfo](http://www.macadmin.info) | a resource for beginning and experienced mac/apple administrators. |
