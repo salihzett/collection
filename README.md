@@ -19,7 +19,6 @@
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg. |
 | [AutoNBI.py](https://github.com/bruienne/autonbi) | A tool to automate (or not) the building and customization of Apple NetInstall Images. |
 | [BananaEndocarp](https://github.com/clburlison/BananaEndocarp) | BananaEndocarp is a scripted GUI for interacting with MunkiWebAdmin2's API. |
-| [CreateUserPkg](http://magervalp.github.io/CreateUserPkg/) | This project has been archived and is no longer maintained |
 | [Crypt](https://github.com/grahamgilbert/crypt) | Crypt 2 is an authorization plugin that will enforce FileVault 2 |
 | [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
 | [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) | DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. |
