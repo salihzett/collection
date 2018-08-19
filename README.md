@@ -82,6 +82,7 @@
 | [rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts) | useful scripts |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
+| [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 
 
