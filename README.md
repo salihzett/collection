@@ -133,6 +133,7 @@
 | [Der Flounder](https://derflounder.wordpress.com) | Seldom updated, occasionally insightful. |
 | [krypted](http://krypted.com) | Tiny Deathstars of Foulness. krypted on [github](https://github.com/krypted) |
 | [krypted: command line system information](http://krypted.com/mac-os-x/command-line-system-information/) | command line system information |
+| [letsencrypt](https://letsencrypt.org) | Let’s Encrypt is a free, automated, and open Certificate Authority. |
 | [macadmininfo](http://www.macadmin.info) | a resource for beginning and experienced mac/apple administrators. |
 | [macadmins](https://github.com/macadmins) | OSS projects for Mac Admins (Docker, management) |
 | [macadminscripts](https://github.com/hjuutilainen/adminscripts) | Miscellaneous scripts for mac admins |
