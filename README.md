@@ -26,6 +26,7 @@
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
 | [DiskMaker X](http://diskmakerx.com) | ... |
+| [gorilla](https://github.com/1dustindavis/gorilla) | Munki-like Application Management for Windows |
 | [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
 | [Imagr](https://github.com/grahamgilbert/imagr) | Imagr is an application designed to be run from a NetInstall environment created with AutoNBI. |
 | [ImagrAdmin](https://github.com/kylecrawshaw/ImagrAdmin/releases) | ImagrAdmin is a GUI application for macOS to update and create configuration plists for Imagr. |
