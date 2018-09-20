@@ -54,6 +54,7 @@
 
 | tools | description |
 | --- | --- |
+| [AppBlocker](https://github.com/erikberglund/AppBlocker) | Block applications by their bundle identifier from launching in the Finder |
 | [CronniX](https://code.google.com/archive/p/cronnix/) | CronniX is an Aqua frontend to the powerful Unix tool "cron". |
 | [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
 | [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
