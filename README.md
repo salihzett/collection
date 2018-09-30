@@ -42,6 +42,7 @@
 | [munki-reband](https://github.com/ox-it/munki-rebrand)  | Script to rebrand Munki's Managed Software Center, [manual](http://macadamia.bochoven.net/munki/creating_a_custom_munki_installer/) |
 | [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
+| [OverSight](https://objective-see.com/products/oversight.html) | OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
 | [reposado](https://github.com/wdas/reposado) | Host Apple Software Updates on the hardware and OS of your choice. |
@@ -61,6 +62,8 @@
 | [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | Extract App Resource Icons with AppleScript |
 | [fing.io](https://www.fing.io/download-free-ip-scanner-for-desktop-linux-windows-and-osx/) | IP Network Scanner |
+| [firmware_password_manager](https://github.com/univ-of-utah-marriott-library-apple/firmware_password_manager) | A Python script to help Macintosh administrators manage the firmware passwords of their computers.
+ |
 | [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
 | [dotfiles](https://dotfiles.github.io/) | |
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | A script that will build a package containing packages for first installation at first boot |
@@ -72,6 +75,7 @@
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
 | [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
+| [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
 | [Munki Generic Icons](https://github.com/aysiu/MunkiGenericIcons) | Copies a generic icon to Munki items with no icons |
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
 | [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
@@ -86,6 +90,7 @@
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
+| [WhereAmI](https://github.com/robmathers/WhereAmI) | A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework. |
 
 
 ##### Useful applications for macOS 
@@ -132,6 +137,7 @@
 | [Conf: MacSysAdmin](http://www.macsysadmin.se/2017/) | MacSysAdmin is the forum for Mac & iOS Administrators |
 | [Conf: MacTechPro](http://pro.mactech.com) | ... |
 | [defaults-write.com](https://www.defaults-write.com) | Unveil hidden Mac OS X (macOS) Features |
+| [dotfiles](https://dotfiles.github.io) | Your unofficial guide to dotfiles on GitHub. |
 | [Der Flounder](https://derflounder.wordpress.com) | Seldom updated, occasionally insightful. |
 | [krypted](http://krypted.com) | Tiny Deathstars of Foulness. krypted on [github](https://github.com/krypted) |
 | [krypted: command line system information](http://krypted.com/mac-os-x/command-line-system-information/) | command line system information |
@@ -144,6 +150,7 @@
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | ... |
 | [Python Macadmin Tools](https://github.com/timsutton/python-macadmin-tools) | List of open-source Python-based Mac sysadmin tools |
 | [Scripting OS X](https://scriptingosx.com) | #! is not a curse word |
+| [The Chromium Projects](http://dev.chromium.org) | The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, respectively. |
 | [Web: macOS SSH Key](http://www.macadminmonthly.org) | Saving SSH keys in macOS Sierra keychain |
 
 ##### Useful tools for DevOps admins
