@@ -110,6 +110,7 @@
 | [MacPass](http://mstarke.github.io/MacPass/) | ... |
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
+| [Mate: Universal Tab Translator](https://itunes.apple.com/de/app/mate-universal-tab-translator/id1005088137?l) | ... |
 | [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) | ... |
 | [rEFIt](http://refit.sourceforge.net/doc/c2s1_activate.html) | rEFIt is a boot menu and maintenance toolkit for EFI-based machines like the Intel Macs |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
