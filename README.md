@@ -62,8 +62,7 @@
 | [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | Extract App Resource Icons with AppleScript |
 | [fing.io](https://www.fing.io/download-free-ip-scanner-for-desktop-linux-windows-and-osx/) | IP Network Scanner |
-| [firmware_password_manager](https://github.com/univ-of-utah-marriott-library-apple/firmware_password_manager) | A Python script to help Macintosh administrators manage the firmware passwords of their computers.
- |
+| [firmware_password_manager](https://github.com/univ-of-utah-marriott-library-apple/firmware_password_manager) | A Python script to help Macintosh administrators manage the firmware passwords of their computers. |
 | [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
 | [dotfiles](https://dotfiles.github.io/) | |
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | A script that will build a package containing packages for first installation at first boot |
@@ -83,12 +82,14 @@
 | [Payload-Free-Package-Creatorio](https://github.com/rtrouton/Payload-Free-Package-Creator) | Payload-Free Package Creator.app is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages.|
 | [ProfilSigner](https://github.com/nmcspadden/ProfileSigner) | ProfileSigner is a Python script that will encrypt and/or sign a .mobileconfig profile. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
+| [pyLoginItems](https://github.com/pudquick/pyLoginItems) | python module for manipulating user login items (when run as the user) |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
 | [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes |
 | [rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts) | useful scripts |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
+| [SimplePySSH](https://github.com/robperc/SimplePySSH) | Lightweight module for executing and reading output from simple commands on remote machines via SSH using only built-in modules. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [WhereAmI](https://github.com/robmathers/WhereAmI) | A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework. |
 
@@ -164,5 +165,8 @@
 | name | description |
 | --- | --- |
 | [Greg Neagle](https://github.com/gregneagle) | ... |
-| [Graham Gilbert](https://github.com/grahamgilbert) | ... |
+| [Graham Gilbe
+
+
+](https://github.com/grahamgilbert) | ... |
 | [Robert I. Percival](https://github.com/robperc) | ... |
