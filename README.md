@@ -159,8 +159,8 @@
 ##### Old macOS copies
 | os | description |
 | --- | --- |
-| [macOS Sierra](https://itunes.apple.com/gb/app/macos-sierra/id1127487414?mt=12) | Click on the link to get macOS Sierra (10.12.6 |
-| [macOS High Sierra](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12) | Click on the link to get macOS  High Sierra (10.13.6 |
+| [macOS Sierra](https://itunes.apple.com/gb/app/macos-sierra/id1127487414?mt=12) | Click on the link to get macOS Sierra (10.12.6) |
+| [macOS High Sierra](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12) | Click on the link to get macOS  High Sierra (10.13.6) |
 
 
 ##### Useful tools for DevOps admins
