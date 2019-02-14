@@ -3,7 +3,6 @@
 - [macOS admins](#useful-applications-for-macos-admins)
 - [macOS admin links](#useful-links-for-macos-admins)
 - [macOS applications](#useful-applications-for-macos)
-- [macOS tools for admin](#useful-tools-for-macos-admins)
 - [DevOps tools for admin](#useful-tools-for-devops-admins)
 
 
@@ -11,6 +10,7 @@
 
 | software | description |
 | --- | --- |
+| [AppBlocker](https://github.com/erikberglund/AppBlocker) | Block applications by their bundle identifier from launching in the Finder |
 | [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344) | ... |
 | [Apple Remote Desktop](https://itunes.apple.com/de/app/apple-remote-desktop/id409907375) | ... |
 | [AutoDMG](https://github.com/MagerValp/AutoDMG) | Create deployable system images from OS X installer |
@@ -19,65 +19,52 @@
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg. |
 | [AutoNBI.py](https://github.com/bruienne/autonbi) | A tool to automate (or not) the building and customization of Apple NetInstall Images. |
 | [BananaEndocarp](https://github.com/clburlison/BananaEndocarp) | BananaEndocarp is a scripted GUI for interacting with MunkiWebAdmin2's API. |
+| [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
 | [Crypt](https://github.com/grahamgilbert/crypt) | Crypt 2 is an authorization plugin that will enforce FileVault 2 |
+| [CronniX](https://code.google.com/archive/p/cronnix/) | CronniX is an Aqua frontend to the powerful Unix tool "cron". |
+| [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
 | [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
 | [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) | DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. |
 | [DiskMaker X](http://diskmakerx.com) | ... |
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
+| [dotfiles](https://dotfiles.github.io/) | |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
-| [DiskMaker X](http://diskmakerx.com) | ... |
-| [gorilla](https://github.com/1dustindavis/gorilla) | Munki-like Application Management for Windows |
-| [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
-| [Imagr](https://github.com/grahamgilbert/imagr) | Imagr is an application designed to be run from a NetInstall environment created with AutoNBI. |
-| [ImagrAdmin](https://github.com/kylecrawshaw/ImagrAdmin/releases) | ImagrAdmin is a GUI application for macOS to update and create configuration plists for Imagr. |
-| [MacTracker](http://mactracker.ca) | ... |
-| [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
-| [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
-| [Margarita](https://github.com/jessepeterson/margarita) | Web frontend for [reposado](https://github.com/wdas/reposado) |
-| [microMDM](https://github.com/micromdm) | macOS MDM and related services |
-| [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
-| [munki](https://github.com/munki/munki) | Managed software installation for OS X |
-| [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | OS X GUI for managing Munki repositories |
-| [munkireport](https://github.com/munkireport/munkireport-php) | A reporting tool for munki |
-| [munki-reband](https://github.com/ox-it/munki-rebrand)  | Script to rebrand Munki's Managed Software Center, [manual](http://macadamia.bochoven.net/munki/creating_a_custom_munki_installer/) |
-| [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
-| [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
-| [OverSight](https://objective-see.com/products/oversight.html) | OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |
-| [Pacifist](https://www.charlessoft.com) | ... |
-| [Packages](http://packages.debian.org) | ... |
-| [reposado](https://github.com/wdas/reposado) | Host Apple Software Updates on the hardware and OS of your choice. |
-| [restor](https://github.com/google/restor) | Restor is a user-friendly application to (mass) image macOS computers from a single source |
-| [Sal](https://github.com/salopensource/sal) | Modular reporting for Munki |
-| [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
-| [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
-
-
-##### Useful tools for macOS admins
-
-| tools | description |
-| --- | --- |
-| [AppBlocker](https://github.com/erikberglund/AppBlocker) | Block applications by their bundle identifier from launching in the Finder |
-| [CronniX](https://code.google.com/archive/p/cronnix/) | CronniX is an Aqua frontend to the powerful Unix tool "cron". |
-| [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
-| [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
+| [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | Extract App Resource Icons with AppleScript |
 | [fing.io](https://www.fing.io/download-free-ip-scanner-for-desktop-linux-windows-and-osx/) | IP Network Scanner |
 | [firmware_password_manager](https://github.com/univ-of-utah-marriott-library-apple/firmware_password_manager) | A Python script to help Macintosh administrators manage the firmware passwords of their computers. |
-| [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
-| [dotfiles](https://dotfiles.github.io/) | |
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | A script that will build a package containing packages for first installation at first boot |
+| [gorilla](https://github.com/1dustindavis/gorilla) | Munki-like Application Management for Windows |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
+| [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
+| [Imagr](https://github.com/grahamgilbert/imagr) | Imagr is an application designed to be run from a NetInstall environment created with AutoNBI. |
+| [ImagrAdmin](https://github.com/kylecrawshaw/ImagrAdmin/releases) | ImagrAdmin is a GUI application for macOS to update and create configuration plists for Imagr. |
 | [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email mailboxes between two imap servers, one way, and without duplicates. |
 | [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [LoginLog](https://github.com/MagerValp/LoginLog/) | Display a log window over the login window. |
+| [MacTracker](http://mactracker.ca) | ... |
+| [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
+| [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
 | [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
+| [Margarita](https://github.com/jessepeterson/margarita) | Web frontend for [reposado](https://github.com/wdas/reposado) |
+| [microMDM](https://github.com/micromdm) | macOS MDM and related services |
+| [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
+| [munki](https://github.com/munki/munki) | Managed software installation for OS X |
+| [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | OS X GUI for managing Munki repositories |
+| [munkireport](https://github.com/munkireport/munkireport-php) | A reporting tool for munki |
 | [Munki Generic Icons](https://github.com/aysiu/MunkiGenericIcons) | Copies a generic icon to Munki items with no icons |
+| [munki-reband](https://github.com/ox-it/munki-rebrand)  | Script to rebrand Munki's Managed Software Center, [manual](http://macadamia.bochoven.net/munki/creating_a_custom_munki_installer/) |
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
+| [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
+| [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
+| [OverSight](https://objective-see.com/products/oversight.html) | OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |
+| [Pacifist](https://www.charlessoft.com) | ... |
+| [Packages](http://packages.debian.org) | ... |
 | [Paket Sender](https://packetsender.com) | Packet Sender is for sending / receiving of network packets. |
 | [Payload-Free-Package-Creatorio](https://github.com/rtrouton/Payload-Free-Package-Creator) | Payload-Free Package Creator.app is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages.|
 | [ProfileCreator](https://github.com/erikberglund/ProfileCreator) | macOS Application to create standard or customized configuration profiles. |
@@ -86,13 +73,18 @@
 | [pyLoginItems](https://github.com/pudquick/pyLoginItems) | python module for manipulating user login items (when run as the user) |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
 | [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes |
+| [reposado](https://github.com/wdas/reposado) | Host Apple Software Updates on the hardware and OS of your choice. |
+| [restor](https://github.com/google/restor) | Restor is a user-friendly application to (mass) image macOS computers from a single source |
 | [rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts) | useful scripts |
+| [Sal](https://github.com/salopensource/sal) | Modular reporting for Munki |
+| [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
 | [SimplePySSH](https://github.com/robperc/SimplePySSH) | Lightweight module for executing and reading output from simple commands on remote machines via SSH using only built-in modules. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [WhereAmI](https://github.com/robmathers/WhereAmI) | A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework. |
+| [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
 
 
 ##### Useful applications for macOS 
