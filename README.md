@@ -58,6 +58,7 @@
 | [munkireport](https://github.com/munkireport/munkireport-php) | A reporting tool for munki |
 | [Munki Generic Icons](https://github.com/aysiu/MunkiGenericIcons) | Copies a generic icon to Munki items with no icons |
 | [munki-reband](https://github.com/ox-it/munki-rebrand)  | Script to rebrand Munki's Managed Software Center, [manual](http://macadamia.bochoven.net/munki/creating_a_custom_munki_installer/) |
+| [Munki-Manifest-Selector](https://github.com/wollardj/Munki-Manifest-Selector) | A script+application that provides the selection of a Munki manifest template as part of a Deploy Studio workflow. |
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
 | [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
@@ -83,6 +84,7 @@
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
 | [SimplePySSH](https://github.com/robperc/SimplePySSH) | Lightweight module for executing and reading output from simple commands on remote machines via SSH using only built-in modules. |
+| [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) | An Application for Inspecting macOS Installer Packages. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [WhereAmI](https://github.com/robmathers/WhereAmI) | A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework. |
 | [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
@@ -156,7 +158,7 @@
 | --- | --- |
 | [macOS Sierra](https://itunes.apple.com/gb/app/macos-sierra/id1127487414) | Click on the link to get macOS Sierra (10.12.6) |
 | [macOS High Sierra](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741) | Click on the link to get macOS High Sierra (10.13.6) |
-| [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828) | Click on the link to get macOS Mojave (10.14.x) |
+| [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828) | Click on the link to get macOS Mojave (10.14.x)|
 
 
 ##### Useful tools for DevOps admins
@@ -165,9 +167,28 @@
 | [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows |
 
 
+##### Powershell 
+| name | description |
+| --- | --- |
+| [Connect to Exchange Online PowerShell
+](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
+| [Connect to Exchange Online PowerShell
+](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
+
+
+
+##### Useful tools 
+| software | description |
+| --- | --- |
+| [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
+| [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
+| [OpenNMS](https://www.opennms.org/de) | is a free and open-source enterprise grade network monitoring and network management platform. |
+| [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
+
+
 ##### my heros
 | name | description |
 | --- | --- |
 | [Greg Neagle](https://github.com/gregneagle) | ... |
 | [Graham Gilbert](https://github.com/grahamgilbert) | ... |
-[Robert I. Percival](https://github.com/robperc) | ... |
+| [Robert I. Percival](https://github.com/robperc) | ... |
