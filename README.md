@@ -167,14 +167,17 @@
 | [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows |
 
 
+##### Intune
+| name | description |
+| --- | --- |
+| [Intune App Wrapping Tool Mac](https://github.com/msintuneappsdk/intune-app-wrapping-tool-mac) | Use the Intune App Wrapping Tool for Mac to enable Mac apps to be managed by Microsoft Intune |
+
+
 ##### Powershell 
 | name | description |
 | --- | --- |
 | [Connect to Exchange Online PowerShell
 ](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
-| [Connect to Exchange Online PowerShell
-](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
-
 
 
 ##### Useful tools 
