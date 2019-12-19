@@ -165,7 +165,11 @@
 | software | description |
 | --- | --- |
 | [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows |
+| [aws-azure-login](https://github.com/sportradar/aws-azure-login) | Use Azure AD SSO to log into the AWS via CLI. |
+| [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP  |
 
+##### Useful tools for Windows clients
+| [Chocolatey](https://chocolatey.org/) | The Package Manager for Windows |
 
 ##### Intune
 | name | description |
@@ -176,8 +180,7 @@
 ##### Powershell 
 | name | description |
 | --- | --- |
-| [Connect to Exchange Online PowerShell
-](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
+| [Connect to Exchange Online PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
 
 
 ##### Useful tools 
@@ -189,7 +192,7 @@
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
 
 
-##### my heros
+##### heros
 | name | description |
 | --- | --- |
 | [Greg Neagle](https://github.com/gregneagle) | ... |
