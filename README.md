@@ -100,6 +100,7 @@
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
 | [ApplePi-Baker](https://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) | Tool to create OS for raspberry |
 | [Caffeine](http://lightheadsw.com/caffeine/) | ... |
+| [DMGcanvas](https://www.araelium.com/dmgcanvas) |Stylized disk images made easy. |
 | [GPG Suite](https://gpgtools.org) | ... |
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
