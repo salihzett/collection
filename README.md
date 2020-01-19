@@ -170,12 +170,15 @@
 | [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP  |
 
 ##### Useful tools for Windows clients
+| software | description |
+| --- | --- |
 | [Chocolatey](https://chocolatey.org/) | The Package Manager for Windows |
 
 ##### Intune
 | name | description |
 | --- | --- |
 | [Intune App Wrapping Tool Mac](https://github.com/msintuneappsdk/intune-app-wrapping-tool-mac) | Use the Intune App Wrapping Tool for Mac to enable Mac apps to be managed by Microsoft Intune |
+| [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
 
 
 ##### Powershell 
