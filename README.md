@@ -174,13 +174,19 @@
 | --- | --- |
 | [Chocolatey](https://chocolatey.org/) | The Package Manager for Windows |
 
-##### Intune
+##### Intune / Office admins
 | name | description |
 | --- | --- |
 | [Intune App Wrapping Tool Mac](https://github.com/msintuneappsdk/intune-app-wrapping-tool-mac) | Use the Intune App Wrapping Tool for Mac to enable Mac apps to be managed by Microsoft Intune |
 | [Google Chrome PKG](https://cloud.google.com/chrome-enterprise/browser/download) | Google Chrome PKG for Intune |
+| [Firefox PKG](https://ftp.mozilla.org/pub/firefox/releases/74.0.1/mac/en-US/) | Firefox PKG for Intune |
+| [What's new in Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/fundamentals/whats-new) | Learn what's new each week in Microsoft Intune in Microsoft Endpoint Manager admin center. |
+| [Reddit](https://www.reddit.com/r/Intune/) | Intune: Mobile Device Management |
+| [Techcommunity](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | Intune Customer Success |
 | [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
 | [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
+| [Microsoft Office docu](https://docs.microsoft.com/en-us/office/) | Office documentation for admins and IT professionals |
+
 
 
 ##### Powershell 
