@@ -189,6 +189,8 @@
 | [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
 | [Microsoft Office docu](https://docs.microsoft.com/en-us/office/) | Office documentation for admins and IT professionals |
 | [Service plan IDs for licensing](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-service-plan-reference) | Product names and service plan identifiers for licensing |
+| [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
+
 
 
 ##### Powershell 
