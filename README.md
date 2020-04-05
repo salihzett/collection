@@ -41,6 +41,7 @@
 | [ImagrAdmin](https://github.com/kylecrawshaw/ImagrAdmin/releases) | ImagrAdmin is a GUI application for macOS to update and create configuration plists for Imagr. |
 | [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email mailboxes between two imap servers, one way, and without duplicates. |
 | [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
+| [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [LoginLog](https://github.com/MagerValp/LoginLog/) | Display a log window over the login window. |
 | [MacTracker](http://mactracker.ca) | ... |
