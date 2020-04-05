@@ -182,6 +182,8 @@
 | [Firefox PKG](https://ftp.mozilla.org/pub/firefox/releases/74.0.1/mac/en-US/) | Firefox PKG for Intune |
 | [What's new in Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/fundamentals/whats-new) | Learn what's new each week in Microsoft Intune in Microsoft Endpoint Manager admin center. |
 | [Reddit](https://www.reddit.com/r/Intune/) | Intune: Mobile Device Management |
+| [Microsoft Intune](https://techcommunity.microsoft.com/t5/microsoft-intune/bd-p/Microsoft-Intune
+) | Microsoft Intune Techcommunity |
 | [Techcommunity](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | Intune Customer Success |
 | [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
 | [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
