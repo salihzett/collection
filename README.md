@@ -56,12 +56,13 @@
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [LoginLog](https://github.com/MagerValp/LoginLog/) | Display a log window over the login window. |
 | [Keka](http://www.kekaosx.com/de/) | ... |
-| [MacPass](http://mstarke.github.io/MacPass/) | ... |
-| [MacTracker](http://mactracker.ca) | ... |
-| [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
 | [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
+| [macOSUpgrade](https://github.com/kc9wwh/macOSUpgrade) | Workflow for doing in-place upgrades. |
+| [MacPass](http://mstarke.github.io/MacPass/) | ... |
+| [MacTracker](http://mactracker.ca) | ... |
+| [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
@@ -144,6 +145,7 @@
 | [macadminscripts](https://github.com/hjuutilainen/adminscripts) | Miscellaneous scripts for mac admins |
 | [maclovin](https://maclovin.org/) | Super Good stuff for Mac & iOS Lovers |
 | [macscripts](https://github.com/grahamgilbert/macscripts) | A collection of random Mac scripts |
+| [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) | wesome list of open source applications for macOS. |
 | [OSX Collector](https://github.com/Yelp/osxcollector) | A forensic evidence collection & analysis toolkit for OS X [here](http://yelp.github.io/osxcollector) |
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | ... |
 | [Python Macadmin Tools](https://github.com/timsutton/python-macadmin-tools) | List of open-source Python-based Mac sysadmin tools |
