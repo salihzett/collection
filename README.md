@@ -68,6 +68,7 @@
 | [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
 | [Margarita](https://github.com/jessepeterson/margarita) | Web frontend for [reposado](https://github.com/wdas/reposado) |
 | [Mate: Universal Tab Translator](https://itunes.apple.com/de/app/mate-universal-tab-translator/id1005088137?l) | ... |
+| [mcxToProfile](https://github.com/timsutton/mcxToProfile) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
 | [microMDM](https://github.com/micromdm) | macOS MDM and related services |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
