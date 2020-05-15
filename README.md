@@ -49,9 +49,10 @@
 | [Imagr](https://github.com/grahamgilbert/imagr) | Imagr is an application designed to be run from a NetInstall environment created with AutoNBI. |
 | [ImagrAdmin](https://github.com/kylecrawshaw/ImagrAdmin/releases) | ImagrAdmin is a GUI application for macOS to update and create configuration plists for Imagr. |
 | [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email mailboxes between two imap servers, one way, and without duplicates. |
+| [imazing](https://imazing.com/de/profile-editor/download) | A tool for creating mobileconfig profiles |
+| [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
-| [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
 | [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [LoginLog](https://github.com/MagerValp/LoginLog/) | Display a log window over the login window. |
