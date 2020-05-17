@@ -39,7 +39,7 @@
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
 | [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | Extract App Resource Icons with AppleScript |
-| [fing.io](https://www.fing.io/download-free-ip-scanner-for-desktop-linux-windows-and-osx/) | IP Network Scanner |
+| [fing.io](https://www.fing.com/products/fing-desktop) | IP Network Scanner |
 | [firmware_password_manager](https://github.com/univ-of-utah-marriott-library-apple/firmware_password_manager) | A Python script to help Macintosh administrators manage the firmware passwords of their computers. |
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | A script that will build a package containing packages for first installation at first boot |
 | [gorilla](https://github.com/1dustindavis/gorilla) | Munki-like Application Management for Windows |
