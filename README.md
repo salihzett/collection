@@ -24,6 +24,7 @@
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg. |
 | [AutoNBI.py](https://github.com/bruienne/autonbi) | A tool to automate (or not) the building and customization of Apple NetInstall Images. |
 | [BananaEndocarp](https://github.com/clburlison/BananaEndocarp) | BananaEndocarp is a scripted GUI for interacting with MunkiWebAdmin2's API. |
+| [BlackHole](https://github.com/ExistentialAudio/BlackHole) | BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. |
 | [Caffeine](http://lightheadsw.com/caffeine/) | ... |
 | [CIS-for-macOS-High-Sierra-CP](https://github.com/jamf/CIS-for-macOS-High-Sierra-CP) | CIS for macOS High Sierra - Script and Configuration Profile Remediation |
 | [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
@@ -82,6 +83,7 @@
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
 | [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
+| [Notarize](https://github.com/macmade/Notarize) | Notarization status monitoring tool for macOS, supporting multiple developer accounts. |
 | [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
 | [OverSight](https://objective-see.com/products/oversight.html) | OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |
 | [Pacifist](https://www.charlessoft.com) | ... |
