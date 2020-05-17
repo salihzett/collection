@@ -95,6 +95,7 @@
 | [ProfileCreator](https://github.com/erikberglund/ProfileCreator) | macOS Application to create standard or customized configuration profiles. |
 | [ProfilSigner](https://github.com/nmcspadden/ProfileSigner) | ProfileSigner is a Python script that will encrypt and/or sign a .mobileconfig profile. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
+| [Privileges](https://github.com/SAP/macOS-enterprise-privileges) | For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS. |
 | [pyLoginItems](https://github.com/pudquick/pyLoginItems) | python module for manipulating user login items (when run as the user) |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
 | [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes |
