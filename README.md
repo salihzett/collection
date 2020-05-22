@@ -33,6 +33,7 @@
 | [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
 | [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
 | [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) | DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. |
+| [Desktoppr](https://github.com/scriptingosx/desktoppr) | Simple command line tool to set the desktop picture on macOS. |
 | [DiskMaker X](http://diskmakerx.com) | ... |
 | [DMGcanvas](https://www.araelium.com/dmgcanvas) |Stylized disk images made easy. |
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
