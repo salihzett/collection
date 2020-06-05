@@ -11,6 +11,7 @@
 | software | description |
 | --- | --- |
 | [1Passwort](https://itunes.apple.com/de/app/1password/id443987910) | ... |
+| [Addigy](https://addigy.com/) | A Robust Platform For Apple in the Enterprise |
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
 | [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456) | ... |
@@ -47,6 +48,7 @@
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | A script that will build a package containing packages for first installation at first boot |
 | [gorilla](https://github.com/1dustindavis/gorilla) | Munki-like Application Management for Windows |
 | [GPG Suite](https://gpgtools.org) | ... |
+| [Hello-IT](https://github.com/ygini/Hello-IT) | Self support apps provided by IT services to end users. |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
 | [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
 | [Imagr](https://github.com/grahamgilbert/imagr) | Imagr is an application designed to be run from a NetInstall environment created with AutoNBI. |
@@ -54,6 +56,7 @@
 | [imapsync](https://github.com/imapsync/imapsync) | IMAP tool for syncing, copying and migrating email mailboxes between two imap servers, one way, and without duplicates. |
 | [imazing](https://imazing.com/de/profile-editor/download) | A tool for creating mobileconfig profiles |
 | [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
+| [InstallApplications Demo](https://github.com/erikng/installapplicationsdemo) | a demo repo for InstallApplications |
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
 | [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
@@ -87,7 +90,7 @@
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Notarize](https://github.com/macmade/Notarize) | Notarization status monitoring tool for macOS, supporting multiple developer accounts. |
 | [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
-| [OverSight](https://objective-see.com/products/oversight.html) | OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. |
+| [Outset](https://github.com/chilcote/outset) | Automatically process packages, profiles, and scripts during boot, login, or on demand. |
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
 | [Paket Sender](https://packetsender.com) | Packet Sender is for sending / receiving of network packets. |
@@ -112,9 +115,10 @@
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
-| [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | Full Backup Tool |
 | [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
 | [SimplePySSH](https://github.com/robperc/SimplePySSH) | Lightweight module for executing and reading output from simple commands on remote machines via SSH using only built-in modules. |
+| [SplashBuddy](https://github.com/Shufflepuck/SplashBuddy) | Onboarding splash screen for Jamf Pro. Improves DEP provisioning for macOS. |
+| [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | Full Backup Tool |
 | [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) | An Application for Inspecting macOS Installer Packages. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
