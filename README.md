@@ -57,6 +57,7 @@
 | [imazing](https://imazing.com/de/profile-editor/download) | A tool for creating mobileconfig profiles |
 | [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
 | [InstallApplications Demo](https://github.com/erikng/installapplicationsdemo) | a demo repo for InstallApplications |
+| [Installomator](https://github.com/scriptingosx/Installomator/) | Installation script to deploy standard software on Macs |
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
 | [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
