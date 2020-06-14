@@ -156,6 +156,7 @@
 | [macadminscripts](https://github.com/hjuutilainen/adminscripts) | Miscellaneous scripts for mac admins |
 | [maclovin](https://maclovin.org/) | Super Good stuff for Mac & iOS Lovers |
 | [macscripts](https://github.com/grahamgilbert/macscripts) | A collection of random Mac scripts |
+| [MacTricksAndTip](https://fipulse.info/w/Jtko5wCAJFI2w0T_hZ-H9Q) | Video tips channel |
 | [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) | wesome list of open source applications for macOS. |
 | [OSX Collector](https://github.com/Yelp/osxcollector) | A forensic evidence collection & analysis toolkit for OS X [here](http://yelp.github.io/osxcollector) |
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | ... |
@@ -179,6 +180,7 @@
 ##### Useful links for Microsoft admins
 | name | description |
 | --- | --- |
+| [Azure Active Directory Webinar Community](https://techcommunity.microsoft.com/t5/azure-active-directory/azure-active-directory-webinar-community/m-p/796024#M3184) | ... |
 | [Bittan](https://www.bittitan.com/) | Migrate mailboxes, documents, and more to Office 365, Exchange, and G Suite with MigrationWiz. |
 | [Intune App Wrapping Tool Mac](https://github.com/msintuneappsdk/intune-app-wrapping-tool-mac) | Use the Intune App Wrapping Tool for Mac to enable Mac apps to be managed by Microsoft Intune |
 | [Microsoft-Win32-Content-Prep-Tool](https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool) | A tool to wrap Win32 App and then it can be uploaded to Intune |
