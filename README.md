@@ -12,6 +12,7 @@
 | --- | --- |
 | [1Passwort](https://itunes.apple.com/de/app/1password/id443987910) | ... |
 | [Addigy](https://addigy.com/) | A Robust Platform For Apple in the Enterprise |
+| [ADept](https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse) | ... |
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
 | [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456) | ... |
@@ -90,6 +91,7 @@
 | [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Notarize](https://github.com/macmade/Notarize) | Notarization status monitoring tool for macOS, supporting multiple developer accounts. |
+| [Numi](https://numi.app/) | Beautiful calculator app for Mac. |
 | [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
 | [Outset](https://github.com/chilcote/outset) | Automatically process packages, profiles, and scripts during boot, login, or on demand. |
 | [Pacifist](https://www.charlessoft.com) | ... |
@@ -193,6 +195,7 @@
 | [In development for Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/fundamentals/in-development) | ... |
 | [Microsoft Intune](https://techcommunity.microsoft.com/t5/microsoft-intune/bd-p/Microsoft-Intune) | Microsoft Intune Techcommunity |
 | [Techcommunity](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | Intune Customer Success |
+| [Intune Customer Success](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | ... |
 | [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
 | [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
 | [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) | Get the latest updates |
@@ -200,6 +203,8 @@
 | [Service plan IDs for licensing](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-service-plan-reference) | Product names and service plan identifiers for licensing |
 | [samltest](https://samltest.id/) | SAMLtest is a free SAML 2.0 testing service. |
 | [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
+| [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
+
 
 
 ##### Useful tools 
@@ -217,6 +222,11 @@
 ##### heros
 | name | description |
 | --- | --- |
-| [Greg Neagle](https://github.com/gregneagle) | ... |
-| [Graham Gilbert](https://github.com/grahamgilbert) | ... |
-| [Robert I. Percival](https://github.com/robperc) | ... |
+| [Alan Siu](https://www.alansiu.net/munkiguide/) | Munki Guide for Schools |
+| [Clayton Burlison](https://github.com/clburlison) | Github |
+| [Erik Gomez](https://blog.eriknicolasgomez.com/) | Blog |
+| [Graham Gilbert](https://github.com/grahamgilbert) | Github |
+| [Graham Walsh](https://www.graham-walsh.com/) | Blog |
+| [Greg Neagle](https://github.com/gregneagle) | Github |
+| [Robert I. Percival](https://github.com/robperc) | Github |
+| [rtrouton](https://github.com/rtrouton) | Github |
