@@ -91,6 +91,7 @@
 | [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Notarize](https://github.com/macmade/Notarize) | Notarization status monitoring tool for macOS, supporting multiple developer accounts. |
+| [Nudge](https://github.com/macadmins/nudge) | A tool to help users with pre-existing devices upgrade their OS version. |
 | [Numi](https://numi.app/) | Beautiful calculator app for Mac. |
 | [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
 | [Outset](https://github.com/chilcote/outset) | Automatically process packages, profiles, and scripts during boot, login, or on demand. |
