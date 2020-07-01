@@ -20,6 +20,7 @@
 | [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344) | ... |
 | [Apple Remote Desktop](https://itunes.apple.com/de/app/apple-remote-desktop/id409907375) | ... |
 | [ApplePi-Baker](https://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) | Tool to create OS for raspberry |
+| [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform. |
 | [AutoDMG](https://github.com/MagerValp/AutoDMG) | Create deployable system images from OS X installer |
 | [AutoImagrNBI](https://github.com/macmule/AutoImagrNBI) | AutoCasperNBI variant for use with Imagr |
 | [AutoPkg](https://github.com/autopkg/autopkg) | Automating packaging and software distribution on OS X. |
@@ -28,6 +29,7 @@
 | [BananaEndocarp](https://github.com/clburlison/BananaEndocarp) | BananaEndocarp is a scripted GUI for interacting with MunkiWebAdmin2's API. |
 | [BlackHole](https://github.com/ExistentialAudio/BlackHole) | BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. |
 | [Caffeine](http://lightheadsw.com/caffeine/) | ... |
+| [Chef](https://github.com/chef/chef) | Chef Infra, a powerful automation platform. |
 | [CIS-for-macOS-High-Sierra-CP](https://github.com/jamf/CIS-for-macOS-High-Sierra-CP) | CIS for macOS High Sierra - Script and Configuration Profile Remediation |
 | [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
 | [Cakebrew](https://www.cakebrew.com/) | The Mac App for Homebrew. |
@@ -129,6 +131,7 @@
 | [Tunnelblick](https://tunnelblick.net/index.html) | OpenVPN Client for macOS |
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
 | [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724) | ... |
+| [Umad](https://github.com/macadmins/umad) | [U]niversal [M]DM [A]pproval [D]ialog |
 | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | ... |
 | [WhereAmI](https://github.com/robmathers/WhereAmI) | A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework. |
 | [WineBottler](http://winebottler.kronenberg.org/) | Run Windows-based Programs on a Mac |
@@ -171,6 +174,8 @@
 | [macOS Sierra](https://itunes.apple.com/gb/app/macos-sierra/id1127487414) | Click on the link to get macOS Sierra (10.12.6) |
 | [macOS High Sierra](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741) | Click on the link to get macOS High Sierra (10.13.6) |
 | [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828) | Click on the link to get macOS Mojave (10.14.x)|
+| [Uber Eng](https://eng.uber.com/scaling-mobile-device-management-at-uber/) | ... |
+
 
 
 ##### Useful tools for DevOps admins
@@ -179,6 +184,7 @@
 | [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows |
 | [aws-azure-login](https://github.com/sportradar/aws-azure-login) | Use Azure AD SSO to log into the AWS via CLI. |
 | [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP  |
+| [Portainer](https://www.portainer.io/) | Build and manage your Docker environments with ease today. |
 
 
 ##### Useful links for Microsoft admins
@@ -208,11 +214,14 @@
 
 
 
+
+
 ##### Useful tools 
 | software | description |
 | --- | --- |
 | [Chocolatey](https://chocolatey.org/) | The Package Manager for Windows |
 | [Connect to Exchange Online PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
+| [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organise all your web applications. |
 | [Local RTMP Streaming Server](https://github.com/sallar/mac-local-rtmp-server) | A simple RTMP server for macOS. |
 | [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
 | [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
