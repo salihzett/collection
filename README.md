@@ -90,6 +90,7 @@
 | [munki-reband](https://github.com/ox-it/munki-rebrand)  | Script to rebrand Munki's Managed Software Center, [manual](http://macadamia.bochoven.net/munki/creating_a_custom_munki_installer/) |
 | [Munki-Manifest-Selector](https://github.com/wollardj/Munki-Manifest-Selector) | A script+application that provides the selection of a Munki manifest template as part of a Deploy Studio workflow. |
 | [Node.js](https://nodejs.org/en/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
+| [NoMad](https://gitlab.com/Mactroll/NoMAD) | macOS menu bar application that provides all the functionality of being bound to AD, and more, without having to be bound. |
 | [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Notarize](https://github.com/macmade/Notarize) | Notarization status monitoring tool for macOS, supporting multiple developer accounts. |
