@@ -213,7 +213,8 @@
 | software | description |
 | --- | --- |
 | [Chocolatey](https://chocolatey.org/) | The Package Manager for Windows |
-| [Connect to Exchange Online PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) |  |
+| [Connect to Exchange Online PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) | ... |
+| [Foreman](https://www.theforeman.org/) | is a complete lifecycle management tool for physical and virtual servers. |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organise all your web applications. |
 | [Local RTMP Streaming Server](https://github.com/sallar/mac-local-rtmp-server) | A simple RTMP server for macOS. |
 | [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
