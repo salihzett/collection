@@ -81,6 +81,7 @@
 | [Mate: Universal Tab Translator](https://itunes.apple.com/de/app/mate-universal-tab-translator/id1005088137?l) | ... |
 | [mcxToProfile](https://github.com/timsutton/mcxToProfile) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
 | [microMDM](https://github.com/micromdm) | macOS MDM and related services |
+| [microMDM-ui](https://github.com/mosen/micromdm-ui) | MicroMDM UI Is a Web UI front end for MicroMDM |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
@@ -193,27 +194,18 @@
 | --- | --- |
 | [Azure Active Directory Webinar Community](https://techcommunity.microsoft.com/t5/azure-active-directory/azure-active-directory-webinar-community/m-p/796024#M3184) | ... |
 | [Bittan](https://www.bittitan.com/) | Migrate mailboxes, documents, and more to Office 365, Exchange, and G Suite with MigrationWiz. |
-| [Intune App Wrapping Tool Mac](https://github.com/msintuneappsdk/intune-app-wrapping-tool-mac) | Use the Intune App Wrapping Tool for Mac to enable Mac apps to be managed by Microsoft Intune |
-| [Microsoft-Win32-Content-Prep-Tool](https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool) | A tool to wrap Win32 App and then it can be uploaded to Intune |
 | [Google Chrome PKG](https://cloud.google.com/chrome-enterprise/browser/download) | Google Chrome PKG for Intune |
 | [Firefox PKG](https://ftp.mozilla.org/pub/firefox/releases/74.0.1/mac/en-US/) | Firefox PKG for Intune |
 | [Azure Feedback](https://feedback.azure.com/) | This forum (General Feedback) is used for any broad feedback related to Azure. |
-| [Reddit](https://www.reddit.com/r/Intune/) | Intune: Mobile Device Management |
-| [What's new in Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/fundamentals/whats-new) | Learn what's new each week in Microsoft Intune in Microsoft Endpoint Manager admin center. |
-| [In development for Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/fundamentals/in-development) | ... |
-| [Microsoft Intune](https://techcommunity.microsoft.com/t5/microsoft-intune/bd-p/Microsoft-Intune) | Microsoft Intune Techcommunity |
-| [Techcommunity](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | Intune Customer Success |
-| [Intune Customer Success](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) | ... |
 | [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
 | [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
 | [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) | Get the latest updates |
 | [Microsoft Office docu](https://docs.microsoft.com/en-us/office/) | Office documentation for admins and IT professionals |
 | [Service plan IDs for licensing](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-service-plan-reference) | Product names and service plan identifiers for licensing |
 | [samltest](https://samltest.id/) | SAMLtest is a free SAML 2.0 testing service. |
+| [Microsoft Store app download](https://store.rg-adguard.net/) | Microsoft Store app download. |
 | [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
-
-
 
 
 
