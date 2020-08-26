@@ -219,6 +219,7 @@
 | [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
 | [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
 | [OpenNMS](https://www.opennms.org/de) | is a free and open-source enterprise grade network monitoring and network management platform. |
+| [OpenSense](https://opnsense.org/) | Secure Your Network with ease. From Virtual Private Networking to Intrusion Detection, Best in class, FREE Open Source Project. |
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
 
 
