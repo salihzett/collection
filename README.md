@@ -97,6 +97,7 @@
 | [Notarize](https://github.com/macmade/Notarize) | Notarization status monitoring tool for macOS, supporting multiple developer accounts. |
 | [Nudge](https://github.com/macadmins/nudge) | A tool to help users with pre-existing devices upgrade their OS version. |
 | [Numi](https://numi.app/) | Beautiful calculator app for Mac. |
+| [Office-Reset](https://office-reset.com/) | Office-Reset is a free downloadable tool that you can use to fix problems and errors encountered with Microsoft Office for Mac apps. |
 | [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
 | [Outset](https://github.com/chilcote/outset) | Automatically process packages, profiles, and scripts during boot, login, or on demand. |
 | [Pacifist](https://www.charlessoft.com) | ... |
@@ -193,6 +194,7 @@
 ##### Useful links for Microsoft admins
 | name | description |
 | --- | --- |
+| [Apple URL Scheme Reference](https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007899-CH1-SW1) | This document describes several URL schemes that are supported by system apps on iOS, macOS, and watchOS 2 and later.|
 | [Azure Active Directory Webinar Community](https://techcommunity.microsoft.com/t5/azure-active-directory/azure-active-directory-webinar-community/m-p/796024#M3184) | ... |
 | [Bittan](https://www.bittitan.com/) | Migrate mailboxes, documents, and more to Office 365, Exchange, and G Suite with MigrationWiz. |
 | [Google Chrome PKG](https://cloud.google.com/chrome-enterprise/browser/download) | Google Chrome PKG for Intune |
@@ -213,15 +215,19 @@
 ##### Useful tools 
 | software | description |
 | --- | --- |
+| [automatic-cloud-backup](https://bitbucket.org/atlassianlabs/automatic-cloud-backup/src/master/) | In here you find sample backup scripts for taking automatic Cloud backups from Atlassian JIRA or Confluence |
 | [Chocolatey](https://chocolatey.org/) | The Package Manager for Windows |
 | [Connect to Exchange Online PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) | ... |
+| [daloradius](https://github.com/lirantal/daloradius) | daloRADIUS is an advanced RADIUS web management application. |
 | [Foreman](https://www.theforeman.org/) | is a complete lifecycle management tool for physical and virtual servers. |
+| [freeradius-oauth2-perl](https://github.com/jimdigriz/freeradius-oauth2-perl) | describes how to set up FreeRADIUS using rlm_perl to communicate with an OAuth2 identity provider. |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organise all your web applications. |
 | [Local RTMP Streaming Server](https://github.com/sallar/mac-local-rtmp-server) | A simple RTMP server for macOS. |
 | [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
 | [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
 | [OpenNMS](https://www.opennms.org/de) | is a free and open-source enterprise grade network monitoring and network management platform. |
 | [OpenSense](https://opnsense.org/) | Secure Your Network with ease. From Virtual Private Networking to Intrusion Detection, Best in class, FREE Open Source Project. |
+| [objective-see - Lulu](https://objective-see.com/products/lulu.html) | is a free and open-source enterprise grade network monitoring and network management platform. |
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
 
 
