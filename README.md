@@ -11,7 +11,7 @@
 | software | description |
 | --- | --- |
 | [1Passwort](https://itunes.apple.com/de/app/1password/id443987910) | ... |
-| [Addigy](https://addigy.com/) | A Robust Platform For Apple in the Enterprise |
+| [Addigy](https://addigy.com/) | Addigy helps IT securely manage all Apple devices with our true SaaS solution designed for the modern workforce. |
 | [ADept](https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse) | ... |
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
