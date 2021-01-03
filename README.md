@@ -178,6 +178,7 @@
 | [macOS Sierra](https://itunes.apple.com/gb/app/macos-sierra/id1127487414) | Click on the link to get macOS Sierra (10.12.6) |
 | [macOS High Sierra](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741) | Click on the link to get macOS High Sierra (10.13.6) |
 | [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828) | Click on the link to get macOS Mojave (10.14.x)|
+| [macOS Catalina](https://itunes.apple.com/de/app/macos-catalina/id1466841314) | Click on the link to get macOS Mojave (10.15.x)|
 | [Uber Eng](https://eng.uber.com/scaling-mobile-device-management-at-uber/) | ... |
 
 
@@ -189,6 +190,7 @@
 | [aws-azure-login](https://github.com/sportradar/aws-azure-login) | Use Azure AD SSO to log into the AWS via CLI. |
 | [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP  |
 | [Portainer](https://www.portainer.io/) | Build and manage your Docker environments with ease today. |
+
 
 
 ##### Useful links for Microsoft admins
