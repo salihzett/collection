@@ -129,6 +129,7 @@
 | [SplashBuddy](https://github.com/Shufflepuck/SplashBuddy) | Onboarding splash screen for Jamf Pro. Improves DEP provisioning for macOS. |
 | [Step Two](https://apps.apple.com/us/app/step-two/id1448916662) | Simple two-step verification |
 | [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | Full Backup Tool |
+| [sus-inspector](https://github.com/hjuutilainen/sus-inspector) | Inspect Apple software update service. |
 | [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) | An Application for Inspecting macOS Installer Packages. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
