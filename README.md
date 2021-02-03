@@ -182,6 +182,10 @@
 | [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828) | Click on the link to get macOS Mojave (10.14.x)|
 | [macOS Catalina](https://itunes.apple.com/de/app/macos-catalina/id1466841314) | Click on the link to get macOS Mojave (10.15.x)|
 | [Uber Eng](https://eng.uber.com/scaling-mobile-device-management-at-uber/) | ... |
+| [alansiu blog](https://www.alansiu.net/) | ... |
+| [DANIEL SELLERS](https://www.danielsellers.com/) | A talented and accomplished mobile systems engineer and trainer with 18 years of experience. |
+
+
 
 
 
@@ -213,6 +217,11 @@
 | [Microsoft Store app download](https://store.rg-adguard.net/) | Microsoft Store app download. |
 | [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
+| [macosxbytes](https://macosxbytes.wordpress.com/) | ... |
+| [practical365](https://practical365.com/) | to provide relevant, actionable advice on all things Microsoft, straight from the experts themselves.  |
+| [thelazyadministrator](https://www.thelazyadministrator.com/) | finding ways to do the most work with the least effort possible |
+| [petervanderwoude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
+
 
 
 
@@ -233,6 +242,7 @@
 | [OpenSense](https://opnsense.org/) | Secure Your Network with ease. From Virtual Private Networking to Intrusion Detection, Best in class, FREE Open Source Project. |
 | [objective-see - Lulu](https://objective-see.com/products/lulu.html) | is a free and open-source enterprise grade network monitoring and network management platform. |
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
+
 
 
 ##### heros
