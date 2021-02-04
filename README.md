@@ -218,6 +218,7 @@
 | [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
 | [macosxbytes](https://macosxbytes.wordpress.com/) | ... |
+| [timmyit](https://timmyit.com) | Timmy Andersson, Senior consultant at CTGlobal, Microsoft Enterprise Mobility MVP  |
 | [practical365](https://practical365.com/) | to provide relevant, actionable advice on all things Microsoft, straight from the experts themselves.  |
 | [thelazyadministrator](https://www.thelazyadministrator.com/) | finding ways to do the most work with the least effort possible |
 | [petervanderwoude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
