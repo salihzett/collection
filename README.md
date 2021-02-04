@@ -219,9 +219,11 @@
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
 | [macosxbytes](https://macosxbytes.wordpress.com/) | ... |
 | [timmyit](https://timmyit.com) | Timmy Andersson, Senior consultant at CTGlobal, Microsoft Enterprise Mobility MVP  |
+| [inthecloud247](https://www.inthecloud247.com/) | INTUNE, EMS, OFFICE 365, MICROSOFT 365, AZURE |
 | [practical365](https://practical365.com/) | to provide relevant, actionable advice on all things Microsoft, straight from the experts themselves.  |
 | [thelazyadministrator](https://www.thelazyadministrator.com/) | finding ways to do the most work with the least effort possible |
 | [petervanderwoude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
+| [o365reports](https://o365reports.com/) | ALL ABOUT OFFICE 365 |
 
 
 
