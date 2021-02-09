@@ -223,7 +223,10 @@
 | [practical365](https://practical365.com/) | to provide relevant, actionable advice on all things Microsoft, straight from the experts themselves.  |
 | [thelazyadministrator](https://www.thelazyadministrator.com/) | finding ways to do the most work with the least effort possible |
 | [petervanderwoude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
-| [o365reports](https://o365reports.com/) | ALL ABOUT OFFICE 365 |
+| [o365reports](https://o365reports.com/) | All About Office 365 |
+| [CIAOPS](https://blog.ciaops.com) | Information about SharePoint, Microsoft 365, Azure, Mobility and Productivity from the Computer Information Agency |
+| [infrastrukturhelden](https://www.infrastrukturhelden.de) | Microsoft, Linux, Cloud und mehr |
+
 
 
 
