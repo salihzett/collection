@@ -226,6 +226,7 @@
 | [o365reports](https://o365reports.com/) | All About Office 365 |
 | [CIAOPS](https://blog.ciaops.com) | Information about SharePoint, Microsoft 365, Azure, Mobility and Productivity from the Computer Information Agency |
 | [infrastrukturhelden](https://www.infrastrukturhelden.de) | Microsoft, Linux, Cloud und mehr |
+| [letsconfigmgr](https://letsconfigmgr.com/) | Microsoft, Linux, Cloud und mehr |
 
 
 
