@@ -12,7 +12,7 @@
 | --- | --- |
 | [1Passwort](https://itunes.apple.com/de/app/1password/id443987910) | ... |
 | [Addigy](https://addigy.com/) | Addigy helps IT securely manage all Apple devices with our true SaaS solution designed for the modern workforce. |
-| [ADept](https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse) | ... |
+| [ADept](https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse) | DEP Enrolment Setup Screen |
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
 | [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456) | ... |
@@ -209,6 +209,7 @@
 | [Firefox PKG](https://ftp.mozilla.org/pub/firefox/releases/74.0.1/mac/en-US/) | Firefox PKG for Intune |
 | [Azure Feedback](https://feedback.azure.com/) | This forum (General Feedback) is used for any broad feedback related to Azure. |
 | [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
+| [krypted](https://krypted.com/community/the-apple-toolchain/) | The-Apple-Toolchain |
 | [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
 | [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) | Get the latest updates |
 | [Microsoft Office docu](https://docs.microsoft.com/en-us/office/) | Office documentation for admins and IT professionals |
