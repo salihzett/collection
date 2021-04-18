@@ -60,9 +60,11 @@
 | [imazing](https://imazing.com/de/profile-editor/download) | A tool for creating mobileconfig profiles |
 | [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
 | [InstallApplications Demo](https://github.com/erikng/installapplicationsdemo) | a demo repo for InstallApplications |
+| [InstallApplications Swiftly](https://github.com/MichalMMac/installapplications-swiftly) | Swift successor to InstallApplications |
 | [Installomator](https://github.com/scriptingosx/Installomator/) | Installation script to deploy standard software on Macs |
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
+| [jss-filevault-reissue](https://github.com/homebysix/jss-filevault-reissue) | A framework for re-escrowing missing or invalid FileVault keys with Jamf Pro. |
 | [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [LoginLog](https://github.com/MagerValp/LoginLog/) | Display a log window over the login window. |
@@ -85,6 +87,7 @@
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
+| [munki-pkg](https://github.com/munki/munki-pkg) | Repo for the munkipkg tool and example projects |
 | [MunkiAdmin](https://github.com/hjuutilainen/munkiadmin/releases) | OS X GUI for managing Munki repositories |
 | [munkireport](https://github.com/munkireport/munkireport-php) | A reporting tool for munki |
 | [Munki Generic Icons](https://github.com/aysiu/MunkiGenericIcons) | Copies a generic icon to Munki items with no icons |
@@ -95,6 +98,7 @@
 | [NBICreator](https://github.com/NBICreator/NBICreator) | OS X Application to create NetInstall images. |
 | [NetSUS](https://github.com/jamf/NetSUS) | NetBoot and Software Update Server |
 | [Notarize](https://github.com/macmade/Notarize) | Notarization status monitoring tool for macOS, supporting multiple developer accounts. |
+| [Notifier](https://github.com/dataJAR/Notifier) | Swift project which can post macOS alert or banner notifications on 10.10+ clients. |
 | [Nudge](https://github.com/macadmins/nudge) | A tool to help users with pre-existing devices upgrade their OS version. |
 | [Numi](https://numi.app/) | Beautiful calculator app for Mac. |
 | [Office-Reset](https://office-reset.com/) | Office-Reset is a free downloadable tool that you can use to fix problems and errors encountered with Microsoft Office for Mac apps. |
