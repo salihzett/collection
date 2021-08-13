@@ -185,6 +185,7 @@
 | [macOS High Sierra](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741) | Click on the link to get macOS High Sierra (10.13.6) |
 | [macOS Mojave](https://itunes.apple.com/us/app/macos-mojave/id1398502828) | Click on the link to get macOS Mojave (10.14.x)|
 | [macOS Catalina](https://itunes.apple.com/de/app/macos-catalina/id1466841314) | Click on the link to get macOS Mojave (10.15.x)|
+| [macOS BigSur](https://apps.apple.com/us/app/macos-big-sur/id1526878132) | Click on the link to get macOS Mojave (11.x)|
 | [Uber Eng](https://eng.uber.com/scaling-mobile-device-management-at-uber/) | ... |
 | [alansiu blog](https://www.alansiu.net/) | ... |
 | [DANIEL SELLERS](https://www.danielsellers.com/) | A talented and accomplished mobile systems engineer and trainer with 18 years of experience. |
