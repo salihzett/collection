@@ -72,6 +72,7 @@
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
 | [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
+| [macOS-icon-generator](https://github.com/SAP/macOS-icon-generator) | App for macOS which is designed to generate consistent sized icons. |
 | [macOSUpgrade](https://github.com/kc9wwh/macOSUpgrade) | Workflow for doing in-place upgrades. |
 | [MacPass](http://mstarke.github.io/MacPass/) | ... |
 | [MacTracker](http://mactracker.ca) | ... |
@@ -219,8 +220,9 @@
 | [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) | Get the latest updates |
 | [Microsoft Office docu](https://docs.microsoft.com/en-us/office/) | Office documentation for admins and IT professionals |
 | [Service plan IDs for licensing](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-service-plan-reference) | Product names and service plan identifiers for licensing |
-| [samltest](https://samltest.id/) | SAMLtest is a free SAML 2.0 testing service. |
+| [MSEndpointMgr Intune](https://github.com/MSEndpointMgr/Intune) | Microsoft Intune scripts |
 | [Microsoft Store app download](https://store.rg-adguard.net/) | Microsoft Store app download. |
+| [samltest](https://samltest.id/) | SAMLtest is a free SAML 2.0 testing service. |
 | [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
 | [macosxbytes](https://macosxbytes.wordpress.com/) | ... |
