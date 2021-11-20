@@ -233,6 +233,9 @@
 | [CIAOPS](https://blog.ciaops.com) | Information about SharePoint, Microsoft 365, Azure, Mobility and Productivity from the Computer Information Agency |
 | [infrastrukturhelden](https://www.infrastrukturhelden.de) | Microsoft, Linux, Cloud und mehr |
 | [letsconfigmgr](https://letsconfigmgr.com/) | Microsoft, Linux, Cloud und mehr |
+| [teamsnation](https://www.teamsnation.online/) | Together Everybody Achieves More |
+| [Tom Talks](https://tomtalks.blog/) | Microsoft Teams and Microsoft 365 news and opinions |
+
 
 
 
@@ -250,11 +253,13 @@
 | [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organise all your web applications. |
 | [Local RTMP Streaming Server](https://github.com/sallar/mac-local-rtmp-server) | A simple RTMP server for macOS. |
 | [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
+| [n8n](https://github.com/n8n-io/n8n) | Workflow Automation Tool |
 | [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
 | [OpenNMS](https://www.opennms.org/de) | is a free and open-source enterprise grade network monitoring and network management platform. |
 | [OpenSense](https://opnsense.org/) | Secure Your Network with ease. From Virtual Private Networking to Intrusion Detection, Best in class, FREE Open Source Project. |
 | [objective-see - Lulu](https://objective-see.com/products/lulu.html) | is a free and open-source enterprise grade network monitoring and network management platform. |
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
+| [Zapier](https://zapier.com/) | Connect your apps and automate workflows |
 
 
 
@@ -269,3 +274,5 @@
 | [Greg Neagle](https://github.com/gregneagle) | Github |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
+| [Tom Bridge](https://tombridge.com/) | ENGINEERING IS BEST WHEN IT'S DONE TO FURTHER HUMAN KINDNESS |
+| [Michael Rieder](https://macos.it-profs.de/) | macOS Enterprise Blog |
