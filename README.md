@@ -45,10 +45,13 @@
 | [dotfiles](https://dotfiles.github.io/) | |
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
 | [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
+| [erase-install](https://github.com/grahampugh/erase-install) | A script that automates downloading macOS installers and erasing or upgrading macOS in a single process. |
+| [fing.io](https://www.fing.com/products/fing-desktop) | IP Network Scanner |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | Extract App Resource Icons with AppleScript |
 | [fing.io](https://www.fing.com/products/fing-desktop) | IP Network Scanner |
 | [firmware_password_manager](https://github.com/univ-of-utah-marriott-library-apple/firmware_password_manager) | A Python script to help Macintosh administrators manage the firmware passwords of their computers. |
 | [first-boot](https://github.com/grahamgilbert/first-boot-pkg) | A script that will build a package containing packages for first installation at first boot |
+| [gon](https://github.com/mitchellh/gon) | Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library. |
 | [gorilla](https://github.com/1dustindavis/gorilla) | Munki-like Application Management for Windows |
 | [GPG Suite](https://gpgtools.org) | ... |
 | [Hello-IT](https://github.com/ygini/Hello-IT) | Self support apps provided by IT services to end users. |
@@ -61,13 +64,15 @@
 | [InstallApplications](https://github.com/erikng/installapplications) | A tool for dynamically using installapplication |
 | [InstallApplications Demo](https://github.com/erikng/installapplicationsdemo) | a demo repo for InstallApplications |
 | [InstallApplications Swiftly](https://github.com/MichalMMac/installapplications-swiftly) | Swift successor to InstallApplications |
-| [Installomator](https://github.com/scriptingosx/Installomator/) | Installation script to deploy standard software on Macs |
+| [Installomator](https://github.com/scriptingosx/Installomator/) | Installation script to deploy standard software on Macs. [MDM script](https://github.com/Installomator/Installomator/blob/dev/MDM/App%20script.sh)|
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
 | [jss-filevault-reissue](https://github.com/homebysix/jss-filevault-reissue) | A framework for re-escrowing missing or invalid FileVault keys with Jamf Pro. |
-| [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
+| [LabWarden](https://github.com/execriez/LabWarden) | MacOS management tool for installing printers, applications and enforcing custom user and workstation policies |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
+| [Lilu](https://github.com/acidanthera/Lilu) | Arbitrary kext and process patching on macOS |
 | [LoginLog](https://github.com/MagerValp/LoginLog/) | Display a log window over the login window. |
+| [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
 | [Keka](http://www.kekaosx.com/de/) | ... |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
@@ -80,11 +85,13 @@
 | [Magnet](https://itunes.apple.com/de/app/magnet/id441258766) | ... |
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
+| [MakeMeAnAdmin](https://github.com/jamf/MakeMeAnAdmin) | Provides temporary admin access for a standard user via Jamf Self Service |
 | [Margarita](https://github.com/jessepeterson/margarita) | Web frontend for [reposado](https://github.com/wdas/reposado) |
 | [Mate: Universal Tab Translator](https://itunes.apple.com/de/app/mate-universal-tab-translator/id1005088137?l) | ... |
 | [mcxToProfile](https://github.com/timsutton/mcxToProfile) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
 | [microMDM](https://github.com/micromdm) | macOS MDM and related services |
 | [microMDM-ui](https://github.com/mosen/micromdm-ui) | MicroMDM UI Is a Web UI front end for MicroMDM |
+| [montereyblocker](https://github.com/Theile/montereyblocker) | Block macOS Monterey installer app from launching on macOS Big Sur or Catalina. |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
@@ -115,11 +122,13 @@
 | [PkgsCleaner](https://github.com/mikaellofgren/PkgsCleaner) | Read PKGs file, return uninstall-script |
 | [ProfileCreator](https://github.com/erikberglund/ProfileCreator) | macOS Application to create standard or customized configuration profiles. |
 | [ProfilSigner](https://github.com/nmcspadden/ProfileSigner) | ProfileSigner is a Python script that will encrypt and/or sign a .mobileconfig profile. |
+| [printer-pkginfo](https://github.com/HBBisenieks/printer-pkginfo) | Creates a nopkg style pkginfo file to install a printer with Munki. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
 | [Privileges](https://github.com/SAP/macOS-enterprise-privileges) | For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS. |
 | [pyLoginItems](https://github.com/pudquick/pyLoginItems) | python module for manipulating user login items (when run as the user) |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
 | [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes |
+| [ReEnroller](https://github.com/jamf/ReEnroller) | Migrate macOS devices from one Jamf Server to another. |
 | [reposado](https://github.com/wdas/reposado) | Host Apple Software Updates on the hardware and OS of your choice. |
 | [restor](https://github.com/google/restor) | Restor is a user-friendly application to (mass) image macOS computers from a single source |
 | [rEFIt](http://refit.sourceforge.net/doc/c2s1_activate.html) | rEFIt is a boot menu and maintenance toolkit for EFI-based machines like the Intel Macs |
@@ -200,8 +209,10 @@
 | --- | --- |
 | [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows |
 | [aws-azure-login](https://github.com/sportradar/aws-azure-login) | Use Azure AD SSO to log into the AWS via CLI. |
+| [dex](https://github.com/dexidp/dex) | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors |
 | [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP  |
 | [Portainer](https://www.portainer.io/) | Build and manage your Docker environments with ease today. |
+| [zentral](https://github.com/zentralopensource/zentral) | Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing.|
 
 
 
@@ -250,6 +261,7 @@
 | [Chocolatey](https://chocolatey.org/) | The Package Manager for Windows |
 | [Connect to Exchange Online PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) | ... |
 | [daloradius](https://github.com/lirantal/daloradius) | daloRADIUS is an advanced RADIUS web management application. |
+| [dd-wrt](https://dd-wrt.com/) | DD-WRT is a Linux based alternative OpenSource firmware suitable for routers. |
 | [Foreman](https://www.theforeman.org/) | is a complete lifecycle management tool for physical and virtual servers. |
 | [freeradius-oauth2-perl](https://github.com/jimdigriz/freeradius-oauth2-perl) | describes how to set up FreeRADIUS using rlm_perl to communicate with an OAuth2 identity provider. |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organise all your web applications. |
@@ -257,9 +269,12 @@
 | [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
 | [n8n](https://github.com/n8n-io/n8n) | Workflow Automation Tool |
 | [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
+| [Nodogsplash](https://github.com/nodogsplash/nodogsplash) | Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome! |
 | [OpenNMS](https://www.opennms.org/de) | is a free and open-source enterprise grade network monitoring and network management platform. |
 | [OpenSense](https://opnsense.org/) | Secure Your Network with ease. From Virtual Private Networking to Intrusion Detection, Best in class, FREE Open Source Project. |
+| [OpenWrt](https://openwrt.org/) | The OpenWrt Project is a Linux operating system targeting embedded devices. |
 | [objective-see - Lulu](https://objective-see.com/products/lulu.html) | is a free and open-source enterprise grade network monitoring and network management platform. |
+| [qr-image](https://github.com/alexeyten/qr-image) | Yet another QR code generator. |
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
 | [Zapier](https://zapier.com/) | Connect your apps and automate workflows |
 
