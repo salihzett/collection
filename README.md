@@ -183,6 +183,7 @@
 | [maclovin](https://maclovin.org/) | Super Good stuff for Mac & iOS Lovers |
 | [macscripts](https://github.com/grahamgilbert/macscripts) | A collection of random Mac scripts |
 | [MacTricksAndTip](https://fipulse.info/w/Jtko5wCAJFI2w0T_hZ-H9Q) | Video tips channel |
+| [Mosens Profiledocs](https://mosen.github.io/profiledocs/index.html#) | Welcome to MacAdmins Profile Reference’s documentation! |
 | [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) | wesome list of open source applications for macOS. |
 | [OSX Collector](https://github.com/Yelp/osxcollector) | A forensic evidence collection & analysis toolkit for OS X [here](http://yelp.github.io/osxcollector) |
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | ... |
