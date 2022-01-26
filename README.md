@@ -232,7 +232,7 @@
 | [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) | Get the latest updates |
 | [Microsoft Office docu](https://docs.microsoft.com/en-us/office/) | Office documentation for admins and IT professionals |
 | [Service plan IDs for licensing](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-service-plan-reference) | Product names and service plan identifiers for licensing |
-| [MSEndpointMgr Intune](https://github.com/MSEndpointMgr/Intune) | Microsoft Intune scripts |
+| [MSEndpointMgr Intune](https://github.com/MSEndpointMgr/Intune) | Microsoft Intune scripts, [website](https://msendpointmgr.com)  |
 | [Microsoft Store app download](https://store.rg-adguard.net/) | Microsoft Store app download. |
 | [samltest](https://samltest.id/) | SAMLtest is a free SAML 2.0 testing service. |
 | [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
