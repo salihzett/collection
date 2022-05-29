@@ -54,6 +54,7 @@
 | [gon](https://github.com/mitchellh/gon) | Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library. |
 | [gorilla](https://github.com/1dustindavis/gorilla) | Munki-like Application Management for Windows |
 | [GPG Suite](https://gpgtools.org) | ... |
+| [Hancock](https://github.com/JeremyAgost/Hancock) | Signs files, such as .mobileconfigs, using a identity from your keychain |
 | [Hello-IT](https://github.com/ygini/Hello-IT) | Self support apps provided by IT services to end users. |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
 | [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
@@ -72,6 +73,8 @@
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [Lilu](https://github.com/acidanthera/Lilu) | Arbitrary kext and process patching on macOS |
 | [LoginLog](https://github.com/MagerValp/LoginLog/) | Display a log window over the login window. |
+| [LowProfile](https://github.com/ninxsoft/LowProfile) | A Mac utility to help inspect Apple Configuration Profile payloads. |
+| [Luficer](https://github.com/fjcaetano/Lucifer) | Tiny daemon to dim the MacBook keyboard backlight after inactivity |
 | [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
 | [Keka](http://www.kekaosx.com/de/) | ... |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
@@ -79,6 +82,7 @@
 | [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
 | [macOS-icon-generator](https://github.com/SAP/macOS-icon-generator) | App for macOS which is designed to generate consistent sized icons. |
 | [macOSUpgrade](https://github.com/kc9wwh/macOSUpgrade) | Workflow for doing in-place upgrades. |
+| [macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) | Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows. |
 | [MacPass](http://mstarke.github.io/MacPass/) | ... |
 | [MacTracker](http://mactracker.ca) | ... |
 | [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
@@ -136,6 +140,7 @@
 | [Sal](https://github.com/salopensource/sal) | Modular reporting for Munki |
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
+| [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave |
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
 | [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
@@ -147,6 +152,7 @@
 | [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) | An Application for Inspecting macOS Installer Packages. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
+| [TRex](https://github.com/amebalabs/TRex) | Copy any text on your screen, stop retyping. |
 | [Tunnelblick](https://tunnelblick.net/index.html) | OpenVPN Client for macOS |
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
 | [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724) | ... |
@@ -211,7 +217,7 @@
 | [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows |
 | [aws-azure-login](https://github.com/sportradar/aws-azure-login) | Use Azure AD SSO to log into the AWS via CLI. |
 | [dex](https://github.com/dexidp/dex) | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors |
-| [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP  |
+| [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to log in and retrieves AWS temporary credentials using a SAML IDP  |
 | [Portainer](https://www.portainer.io/) | Build and manage your Docker environments with ease today. |
 | [zentral](https://github.com/zentralopensource/zentral) | Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing.|
 
@@ -265,16 +271,17 @@
 | [dd-wrt](https://dd-wrt.com/) | DD-WRT is a Linux based alternative OpenSource firmware suitable for routers. |
 | [Foreman](https://www.theforeman.org/) | is a complete lifecycle management tool for physical and virtual servers. |
 | [freeradius-oauth2-perl](https://github.com/jimdigriz/freeradius-oauth2-perl) | describes how to set up FreeRADIUS using rlm_perl to communicate with an OAuth2 identity provider. |
-| [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organise all your web applications. |
+| [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organize all your web applications. |
 | [Local RTMP Streaming Server](https://github.com/sallar/mac-local-rtmp-server) | A simple RTMP server for macOS. |
+| [MakeMeAdmin](https://github.com/pseymour/MakeMeAdmin) | Make Me Admin is a simple, open-source application for Windows that allows standard user accounts to be elevated to administrator-level, on a temporary basis. |
 | [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
 | [n8n](https://github.com/n8n-io/n8n) | Workflow Automation Tool |
 | [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
 | [Nodogsplash](https://github.com/nodogsplash/nodogsplash) | Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome! |
-| [OpenNMS](https://www.opennms.org/de) | is a free and open-source enterprise grade network monitoring and network management platform. |
+| [OpenNMS](https://www.opennms.org/de) | is a free and open-source enterprise-grade network monitoring and network management platform. |
 | [OpenSense](https://opnsense.org/) | Secure Your Network with ease. From Virtual Private Networking to Intrusion Detection, Best in class, FREE Open Source Project. |
 | [OpenWrt](https://openwrt.org/) | The OpenWrt Project is a Linux operating system targeting embedded devices. |
-| [objective-see - Lulu](https://objective-see.com/products/lulu.html) | is a free and open-source enterprise grade network monitoring and network management platform. |
+| [objective-see - Lulu](https://objective-see.com/products/lulu.html) | is a free and open-source enterprise-grade network monitoring and network management platform. |
 | [qr-image](https://github.com/alexeyten/qr-image) | Yet another QR code generator. |
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
 | [Zapier](https://zapier.com/) | Connect your apps and automate workflows |
