@@ -217,7 +217,8 @@
 | [Kitematic](https://github.com/docker/kitematic) | Visual Docker Container Management on Mac & Windows |
 | [aws-azure-login](https://github.com/sportradar/aws-azure-login) | Use Azure AD SSO to log into the AWS via CLI. |
 | [dex](https://github.com/dexidp/dex) | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors |
-| [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to log in and retrieves AWS temporary credentials using a SAML IDP  |
+| [komodor](https://komodor.com/) | Automate Kubernetes Troubleshooting. |
+| [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to log in and retrieve AWS temporary credentials using a SAML IDP  |
 | [Portainer](https://www.portainer.io/) | Build and manage your Docker environments with ease today. |
 | [zentral](https://github.com/zentralopensource/zentral) | Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing.|
 
@@ -242,7 +243,6 @@
 | [Microsoft Store app download](https://store.rg-adguard.net/) | Microsoft Store app download. |
 | [samltest](https://samltest.id/) | SAMLtest is a free SAML 2.0 testing service. |
 | [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
-| [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
 | [macosxbytes](https://macosxbytes.wordpress.com/) | ... |
 | [timmyit](https://timmyit.com) | Timmy Andersson, Senior consultant at CTGlobal, Microsoft Enterprise Mobility MVP  |
 | [inthecloud247](https://www.inthecloud247.com/) | INTUNE, EMS, OFFICE 365, MICROSOFT 365, AZURE |
@@ -288,7 +288,7 @@
 
 
 
-##### heros
+##### experts
 | name | description |
 | --- | --- |
 | [Alan Siu](https://www.alansiu.net/munkiguide/) | Munki Guide for Schools |
@@ -297,7 +297,13 @@
 | [Graham Gilbert](https://github.com/grahamgilbert) | Github |
 | [Graham Walsh](https://www.graham-walsh.com/) | Blog |
 | [Greg Neagle](https://github.com/gregneagle) | Github |
+| [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
+| [HTMD blog](https://howtomanagedevices.com/) | Blog |
+| [MDM Tech Space by Joy](https://joymalya.com/) | Blog |
+| [Oliver Kieselbach](https://github.com/okieselbach) | Github |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
 | [Tom Bridge](https://tombridge.com/) | ENGINEERING IS BEST WHEN IT'S DONE TO FURTHER HUMAN KINDNESS |
 | [Michael Rieder](https://macos.it-profs.de/) | macOS Enterprise Blog |
+| [Hubert Maslowski](https://hmaslowski.com/home) | Unified Endpoint Management (UEM) Technical Blog |
+
