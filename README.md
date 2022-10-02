@@ -99,6 +99,7 @@
 | [microMDM-ui](https://github.com/mosen/micromdm-ui) | MicroMDM UI Is a Web UI front end for MicroMDM |
 | [montereyblocker](https://github.com/Theile/montereyblocker) | Block macOS Monterey installer app from launching on macOS Big Sur or Catalina. |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
+| [mosyle Profiles](https://github.com/acodega/mosyle) | Command attributes and custom commands to use with Mosyle MDM |
 | [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
 | [munki-pkg](https://github.com/munki/munki-pkg) | Repo for the munkipkg tool and example projects |
@@ -198,6 +199,7 @@
 | [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps) | wesome list of open source applications for macOS. |
 | [OSX Collector](https://github.com/Yelp/osxcollector) | A forensic evidence collection & analysis toolkit for OS X [here](http://yelp.github.io/osxcollector) |
 | [Packaging for Apple Administrators](https://itunes.apple.com/us/book/packaging-for-apple-administrators/id1173928620?mt=11&ign-mpt=uo%3D4) | ... |
+| [Puppeteer](https://github.com/puppeteer/puppeteer) | Headless Chrome Node.js API |
 | [Python Macadmin Tools](https://github.com/timsutton/python-macadmin-tools) | List of open-source Python-based Mac sysadmin tools |
 | [Scripting OS X](https://scriptingosx.com) | #! is not a curse word |
 | [The Chromium Projects](http://dev.chromium.org) | The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, respectively. |
@@ -209,8 +211,6 @@
 | [macOS Catalina](https://itunes.apple.com/de/app/macos-catalina/id1466841314) | Click on the link to get macOS Mojave (10.15.x)|
 | [macOS BigSur](https://apps.apple.com/us/app/macos-big-sur/id1526878132) | Click on the link to get macOS Mojave (11.x)|
 | [Uber Eng](https://eng.uber.com/scaling-mobile-device-management-at-uber/) | ... |
-| [alansiu blog](https://www.alansiu.net/) | ... |
-| [DANIEL SELLERS](https://www.danielsellers.com/) | A talented and accomplished mobile systems engineer and trainer with 18 years of experience. |
 
 
 
@@ -278,9 +278,11 @@
 | [Foreman](https://www.theforeman.org/) | is a complete lifecycle management tool for physical and virtual servers. |
 | [freeradius-oauth2-perl](https://github.com/jimdigriz/freeradius-oauth2-perl) | describes how to set up FreeRADIUS using rlm_perl to communicate with an OAuth2 identity provider. |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organize all your web applications. |
+| [john](https://github.com/openwall/john) | John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs. |
 | [Local RTMP Streaming Server](https://github.com/sallar/mac-local-rtmp-server) | A simple RTMP server for macOS. |
 | [MakeMeAdmin](https://github.com/pseymour/MakeMeAdmin) | Make Me Admin is a simple, open-source application for Windows that allows standard user accounts to be elevated to administrator-level, on a temporary basis. |
 | [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
+| [MDS](https://twocanoes.com/products/mac/mac-deploy-stick/) | Deploy Intel and Apple Silicon Macs in Seconds |
 | [n8n](https://github.com/n8n-io/n8n) | Workflow Automation Tool |
 | [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
 | [Nodogsplash](https://github.com/nodogsplash/nodogsplash) | Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome! |
@@ -288,6 +290,7 @@
 | [OpenSense](https://opnsense.org/) | Secure Your Network with ease. From Virtual Private Networking to Intrusion Detection, Best in class, FREE Open Source Project. |
 | [OpenWrt](https://openwrt.org/) | The OpenWrt Project is a Linux operating system targeting embedded devices. |
 | [objective-see - Lulu](https://objective-see.com/products/lulu.html) | is a free and open-source enterprise-grade network monitoring and network management platform. |
+| [otpspot](https://github.com/user2684/otpspot) | Wireless hotspot with OTP captive portal. |
 | [qr-image](https://github.com/alexeyten/qr-image) | Yet another QR code generator. |
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
 | [Zapier](https://zapier.com/) | Connect your apps and automate workflows |
@@ -298,7 +301,9 @@
 | name | description |
 | --- | --- |
 | [Alan Siu](https://www.alansiu.net/munkiguide/) | Munki Guide for Schools |
+| [Aysiu](https://github.com/aysiu/Mac-Scripts-and-Profiles) | Scripts that modify system preferences on Mac OS X |
 | [Clayton Burlison](https://github.com/clburlison) | Github |
+| [DANIEL SELLERS](https://www.danielsellers.com/) | A talented and accomplished mobile systems engineer and trainer with 18 years of experience. |
 | [Erik Gomez](https://blog.eriknicolasgomez.com/) | Blog |
 | [Graham Gilbert](https://github.com/grahamgilbert) | Github |
 | [Graham Walsh](https://www.graham-walsh.com/) | Blog |
@@ -306,6 +311,8 @@
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
 | [HTMD blog](https://howtomanagedevices.com/) | Blog |
 | [MDM Tech Space by Joy](https://joymalya.com/) | Blog |
+| [Mike Solin](https://github.com/flammable) | Github, for [Profiles](https://github.com/flammable/profiles)|
+| [Neil Martin](https://github.com/neilmartin83) | Github |
 | [Nverse Lab](https://nverselab.com/) | Pushing the limits of Endpoint Management with Intune and Jamf |
 | [Oliver Kieselbach](https://github.com/okieselbach) | Github |
 | [Robert I. Percival](https://github.com/robperc) | Github |
