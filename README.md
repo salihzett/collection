@@ -39,6 +39,7 @@
 | [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
 | [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) | DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. |
 | [Desktoppr](https://github.com/scriptingosx/desktoppr) | Simple command line tool to set the desktop picture on macOS. |
+| [dialog-scriptsc](https://github.com/dan-snelson/dialog-scripts/) | Scripts with leverage Bart Reardon's swiftDialog |
 | [DiskMaker X](http://diskmakerx.com) | ... |
 | [DMGcanvas](https://www.araelium.com/dmgcanvas) |Stylized disk images made easy. |
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
@@ -57,6 +58,7 @@
 | [Hancock](https://github.com/JeremyAgost/Hancock) | Signs files, such as .mobileconfigs, using a identity from your keychain |
 | [Hello-IT](https://github.com/ygini/Hello-IT) | Self support apps provided by IT services to end users. |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
+| [hyper](https://hyper.is/) | A terminal built on web technologies |
 | [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
 | [Imagr](https://github.com/grahamgilbert/imagr) | Imagr is an application designed to be run from a NetInstall environment created with AutoNBI. |
 | [ImagrAdmin](https://github.com/kylecrawshaw/ImagrAdmin/releases) | ImagrAdmin is a GUI application for macOS to update and create configuration plists for Imagr. |
@@ -129,6 +131,7 @@
 | [printer-pkginfo](https://github.com/HBBisenieks/printer-pkginfo) | Creates a nopkg style pkginfo file to install a printer with Munki. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
 | [Privileges](https://github.com/SAP/macOS-enterprise-privileges) | For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS. |
+| [pycreateuserpkg](https://github.com/gregneagle/pycreateuserpkg) | Python tool to create macOS packages that create user accounts |
 | [pyLoginItems](https://github.com/pudquick/pyLoginItems) | python module for manipulating user login items (when run as the user) |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
 | [Recipe Robot](https://github.com/homebysix/recipe-robot) | A kick ass tool for creating AutoPkg recipes |
@@ -147,9 +150,11 @@
 | [SimplePySSH](https://github.com/robperc/SimplePySSH) | Lightweight module for executing and reading output from simple commands on remote machines via SSH using only built-in modules. |
 | [SplashBuddy](https://github.com/Shufflepuck/SplashBuddy) | Onboarding splash screen for Jamf Pro. Improves DEP provisioning for macOS. |
 | [Step Two](https://apps.apple.com/us/app/step-two/id1448916662) | Simple two-step verification |
+| [super](https://github.com/Macjutsu/super) | S.U.P.E.R.M.A.N. optimizes the macOS software update experience.|
 | [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | Full Backup Tool |
 | [sus-inspector](https://github.com/hjuutilainen/sus-inspector) | Inspect Apple software update service. |
 | [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) | An Application for Inspecting macOS Installer Packages. |
+| [tart](https://github.com/cirruslabs/tart) | macOS and Linux VMs on Apple Silicon to use in CI and other automations. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
 | [TRex](https://github.com/amebalabs/TRex) | Copy any text on your screen, stop retyping. |
@@ -229,6 +234,7 @@
 | --- | --- |
 | [Apple URL Scheme Reference](https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007899-CH1-SW1) | This document describes several URL schemes that are supported by system apps on iOS, macOS, and watchOS 2 and later.|
 | [Azure Active Directory Webinar Community](https://techcommunity.microsoft.com/t5/azure-active-directory/azure-active-directory-webinar-community/m-p/796024#M3184) | ... |
+| [Azure Mentor](https://azurementor.wordpress.com/) | For Microsoft Azure Practitioners |
 | [Bittan](https://www.bittitan.com/) | Migrate mailboxes, documents, and more to Office 365, Exchange, and G Suite with MigrationWiz. |
 | [Google Chrome PKG](https://cloud.google.com/chrome-enterprise/browser/download) | Google Chrome PKG for Intune |
 | [Firefox PKG](https://ftp.mozilla.org/pub/firefox/releases/74.0.1/mac/en-US/) | Firefox PKG for Intune |
@@ -300,9 +306,11 @@
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
 | [HTMD blog](https://howtomanagedevices.com/) | Blog |
 | [MDM Tech Space by Joy](https://joymalya.com/) | Blog |
+| [Nverse Lab](https://nverselab.com/) | Pushing the limits of Endpoint Management with Intune and Jamf |
 | [Oliver Kieselbach](https://github.com/okieselbach) | Github |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
+| [travellingtechguy](https://travellingtechguy.blog/) | Blog |
 | [Tom Bridge](https://tombridge.com/) | ENGINEERING IS BEST WHEN IT'S DONE TO FURTHER HUMAN KINDNESS |
 | [Michael Rieder](https://macos.it-profs.de/) | macOS Enterprise Blog |
 | [Hubert Maslowski](https://hmaslowski.com/home) | Unified Endpoint Management (UEM) Technical Blog |
