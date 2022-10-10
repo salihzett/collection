@@ -30,6 +30,7 @@
 | [BlackHole](https://github.com/ExistentialAudio/BlackHole) | BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. |
 | [Caffeine](http://lightheadsw.com/caffeine/) | ... |
 | [Chef](https://github.com/chef/chef) | Chef Infra, a powerful automation platform. |
+| [CIS-Script](https://github.com/mvdbent/CIS-Script) | This CIS Script is build to report and remediate based on the your organisation score. |
 | [CIS-for-macOS-High-Sierra-CP](https://github.com/jamf/CIS-for-macOS-High-Sierra-CP) | CIS for macOS High Sierra - Script and Configuration Profile Remediation |
 | [create-dmg](https://github.com/sindresorhus/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
 | [Cakebrew](https://www.cakebrew.com/) | The Mac App for Homebrew. |
@@ -70,6 +71,7 @@
 | [Installomator](https://github.com/scriptingosx/Installomator/) | Installation script to deploy standard software on Macs. [MDM script](https://github.com/Installomator/Installomator/blob/dev/MDM/App%20script.sh)|
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
+| [Jamf-Device-Migrator](https://github.com/PezzaD84/Jamf-Device-Migrator) | Script to help migrate from one Jamf server to another Jamf server. |
 | [jss-filevault-reissue](https://github.com/homebysix/jss-filevault-reissue) | A framework for re-escrowing missing or invalid FileVault keys with Jamf Pro. |
 | [LabWarden](https://github.com/execriez/LabWarden) | MacOS management tool for installing printers, applications and enforcing custom user and workstation policies |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
@@ -84,7 +86,7 @@
 | [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
 | [macOS-icon-generator](https://github.com/SAP/macOS-icon-generator) | App for macOS which is designed to generate consistent sized icons. |
 | [macOSUpgrade](https://github.com/kc9wwh/macOSUpgrade) | Workflow for doing in-place upgrades. |
-| [macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) | Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows. |
+| [macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) | Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows. [docu for Jamf](https://hiraniconfigmgr.com/postDetails/248/LAPS-for-macOS)  |
 | [MacPass](http://mstarke.github.io/MacPass/) | ... |
 | [MacTracker](http://mactracker.ca) | ... |
 | [MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) | A utility that assists in automating the creation of macOS User Accounts. |
@@ -309,8 +311,10 @@
 | [Graham Gilbert](https://github.com/grahamgilbert) | Github |
 | [Graham Walsh](https://www.graham-walsh.com/) | Blog |
 | [Greg Neagle](https://github.com/gregneagle) | Github |
+| [Hubert Maslowski](https://hmaslowski.com/home) | Unified Endpoint Management (UEM) Technical Blog |
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
 | [HTMD blog](https://howtomanagedevices.com/) | Blog |
+| [Michael Rieder](https://macos.it-profs.de/) | macOS Enterprise Blog |
 | [MDM Tech Space by Joy](https://joymalya.com/) | Blog |
 | [Mike Solin](https://github.com/flammable) | Github, for [Profiles](https://github.com/flammable/profiles)|
 | [Neil Martin](https://github.com/neilmartin83) | Github |
@@ -320,6 +324,4 @@
 | [rtrouton](https://github.com/rtrouton) | Github |
 | [travellingtechguy](https://travellingtechguy.blog/) | Blog |
 | [Tom Bridge](https://tombridge.com/) | ENGINEERING IS BEST WHEN IT'S DONE TO FURTHER HUMAN KINDNESS |
-| [Michael Rieder](https://macos.it-profs.de/) | macOS Enterprise Blog |
-| [Hubert Maslowski](https://hmaslowski.com/home) | Unified Endpoint Management (UEM) Technical Blog |
 
