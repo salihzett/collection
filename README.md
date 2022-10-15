@@ -118,6 +118,7 @@
 | [Notifier](https://github.com/dataJAR/Notifier) | Swift project which can post macOS alert or banner notifications on 10.10+ clients. |
 | [Nudge](https://github.com/macadmins/nudge) | A tool to help users with pre-existing devices upgrade their OS version. |
 | [Numi](https://numi.app/) | Beautiful calculator app for Mac. |
+| [Octory](https://gitlab.com/amarisgroup/octory-config/) | Octory is a highly customizable and elegant macOS application to onboard, support and watch over your users on their Mac. [Link](https://documents.octory.io/index.html) to the documentation.|
 | [Office-Reset](https://office-reset.com/) | Office-Reset is a free downloadable tool that you can use to fix problems and errors encountered with Microsoft Office for Mac apps. |
 | [OSXAuditor](https://github.com/jipegit/OSXAuditor) | OS X Auditor is a free Mac OS X computer forensics tool. |
 | [Outset](https://github.com/chilcote/outset) | Automatically process packages, profiles, and scripts during boot, login, or on demand. |
@@ -284,8 +285,8 @@
 | [john](https://github.com/openwall/john) | John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs. |
 | [Local RTMP Streaming Server](https://github.com/sallar/mac-local-rtmp-server) | A simple RTMP server for macOS. |
 | [MakeMeAdmin](https://github.com/pseymour/MakeMeAdmin) | Make Me Admin is a simple, open-source application for Windows that allows standard user accounts to be elevated to administrator-level, on a temporary basis. |
-| [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
 | [MDS](https://twocanoes.com/products/mac/mac-deploy-stick/) | Deploy Intel and Apple Silicon Macs in Seconds |
+| [Munin](http://munin-monitoring.org/) | Munin is a networked resource monitoring tool |
 | [n8n](https://github.com/n8n-io/n8n) | Workflow Automation Tool |
 | [Naemon](http://www.naemon.org/) | Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications. |
 | [Nodogsplash](https://github.com/nodogsplash/nodogsplash) | Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome! |
@@ -304,6 +305,7 @@
 | name | description |
 | --- | --- |
 | [Alan Siu](https://www.alansiu.net/munkiguide/) | Munki Guide for Schools |
+| [Almen](https://almenscorner.io/) | almen's MEM corner |
 | [Aysiu](https://github.com/aysiu/Mac-Scripts-and-Profiles) | Scripts that modify system preferences on Mac OS X |
 | [Clayton Burlison](https://github.com/clburlison) | Github |
 | [DANIEL SELLERS](https://www.danielsellers.com/) | A talented and accomplished mobile systems engineer and trainer with 18 years of experience. |
@@ -320,8 +322,8 @@
 | [Neil Martin](https://github.com/neilmartin83) | Github |
 | [Nverse Lab](https://nverselab.com/) | Pushing the limits of Endpoint Management with Intune and Jamf |
 | [Oliver Kieselbach](https://github.com/okieselbach) | Github |
+| [Peter van der Woude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
 | [travellingtechguy](https://travellingtechguy.blog/) | Blog |
 | [Tom Bridge](https://tombridge.com/) | ENGINEERING IS BEST WHEN IT'S DONE TO FURTHER HUMAN KINDNESS |
-
