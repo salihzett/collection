@@ -39,6 +39,7 @@
 | [DeleteAllPrinters](https://github.com/macmule/DeleteAllPrinters) | Delete all Printers via Script |
 | [DeployStudio](http://www.deploystudio.com) | Image. Deploy. Configure. |
 | [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) | DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. |
+| [DEPNotify-Starter](https://github.com/jamf/DEPNotify-Starter) | DBash script to start DEPNotify and run policies during enrollment with Jamf Pro. |
 | [Desktoppr](https://github.com/scriptingosx/desktoppr) | Simple command line tool to set the desktop picture on macOS. |
 | [dialog-scriptsc](https://github.com/dan-snelson/dialog-scripts/) | Scripts with leverage Bart Reardon's swiftDialog |
 | [DiskMaker X](http://diskmakerx.com) | ... |
