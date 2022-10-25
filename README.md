@@ -100,6 +100,7 @@
 | [mcxToProfile](https://github.com/timsutton/mcxToProfile) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
 | [microMDM](https://github.com/micromdm) | macOS MDM and related services |
 | [microMDM-ui](https://github.com/mosen/micromdm-ui) | MicroMDM UI Is a Web UI front end for MicroMDM |
+| [mist](https://github.com/ninxsoft/Mist) | A Mac utility that automatically downloads macOS Firmwares / Installers. |
 | [montereyblocker](https://github.com/Theile/montereyblocker) | Block macOS Monterey installer app from launching on macOS Big Sur or Catalina. |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [mosyle Profiles](https://github.com/acodega/mosyle) | Command attributes and custom commands to use with Mosyle MDM |
