@@ -153,6 +153,7 @@
 | [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave |
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
+| [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave. |
 | [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
 | [SimplePySSH](https://github.com/robperc/SimplePySSH) | Lightweight module for executing and reading output from simple commands on remote machines via SSH using only built-in modules. |
 | [SplashBuddy](https://github.com/Shufflepuck/SplashBuddy) | Onboarding splash screen for Jamf Pro. Improves DEP provisioning for macOS. |
