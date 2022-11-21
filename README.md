@@ -130,7 +130,7 @@
 | [Payload-Free-Package-Creatorio](https://github.com/rtrouton/Payload-Free-Package-Creator) | Payload-Free Package Creator.app is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages.|
 | [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) | ... |
 | [Platypus](https://github.com/sveinbjornt/Platypus) | Create Mac applications from command line scripts |
-| [Power Manager]((https://www.dssw.co.uk/powermanager/) | Power Manager lets you automate sophisticated tasks and improve your Mac's power management. |
+| [Power Manager](https://www.dssw.co.uk/powermanager/) | Power Manager lets you automate sophisticated tasks and improve your Mac's power management. |
 | [PPPC-Utility](https://github.com/jamf/PPPC-Utility) | Privacy Preferences Policy Control (PPPC) Utility |
 | [PkgsCleaner](https://github.com/mikaellofgren/PkgsCleaner) | Read PKGs file, return uninstall-script |
 | [ProfileCreator](https://github.com/erikberglund/ProfileCreator) | macOS Application to create standard or customized configuration profiles. |
