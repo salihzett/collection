@@ -16,6 +16,7 @@
 | [Airmail](https://itunes.apple.com/de/app/airmail-3/id918858936) | ... |
 | [Affinity Designer](https://itunes.apple.com/de/app/affinity-designer/id824171161) | ... |
 | [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456) | ... |
+| [Apparency](https://mothersruin.com/software/Apparency/get.html) | ... |
 | [AppBlocker](https://github.com/erikberglund/AppBlocker) | Block applications by their bundle identifier from launching in the Finder |
 | [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344) | ... |
 | [Apple Remote Desktop](https://itunes.apple.com/de/app/apple-remote-desktop/id409907375) | ... |
@@ -172,9 +173,10 @@
 | [Umad](https://github.com/macadmins/umad) | [U]niversal [M]DM [A]pproval [D]ialog |
 | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | ... |
 | [WhereAmI](https://github.com/robmathers/WhereAmI) | A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework. |
-| [WineBottler](http://winebottler.kronenberg.org/) | Run Windows-based Programs on a Mac |
-| [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer |
-| [Yo](https://github.com/sheagcraig/yo) | Send Notification Center messages from the command line |
+| [Xcreds](https://twocanoes.com/products/mac/xcreds/) | Log in to your Mac with your Cloud Password. |
+| [WineBottler](http://winebottler.kronenberg.org/) | Run Windows-based Programs on a Mac. |
+| [Wireshark](https://www.wireshark.org/download.html) | network protocol analyzer. |
+| [Yo](https://github.com/sheagcraig/yo) | Send Notification Center messages from the command line. |
 
 
 ##### Useful links for macOS admins
