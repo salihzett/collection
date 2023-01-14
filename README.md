@@ -102,6 +102,7 @@
 | [microMDM](https://github.com/micromdm) | macOS MDM and related services |
 | [microMDM-ui](https://github.com/mosen/micromdm-ui) | MicroMDM UI Is a Web UI front end for MicroMDM |
 | [mist](https://github.com/ninxsoft/Mist) | A Mac utility that automatically downloads macOS Firmwares / Installers. |
+| [mist-cli](https://github.com/ninxsoft/mist-cli) | A Mac command-line tool that automatically downloads macOS Firmwares / Installers. |
 | [montereyblocker](https://github.com/Theile/montereyblocker) | Block macOS Monterey installer app from launching on macOS Big Sur or Catalina. |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [mosyle Profiles](https://github.com/acodega/mosyle) | Command attributes and custom commands to use with Mosyle MDM |
@@ -163,6 +164,7 @@
 | [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | Full Backup Tool |
 | [sus-inspector](https://github.com/hjuutilainen/sus-inspector) | Inspect Apple software update service. |
 | [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) | An Application for Inspecting macOS Installer Packages. |
+| [swiftDialog](https://github.com/bartreardon/swiftDialog) | Create user-notifications on macOS with swiftDialog. |
 | [tart](https://github.com/cirruslabs/tart) | macOS and Linux VMs on Apple Silicon to use in CI and other automations. |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
