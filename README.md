@@ -60,6 +60,8 @@
 | [GPG Suite](https://gpgtools.org) | ... |
 | [Hancock](https://github.com/JeremyAgost/Hancock) | Signs files, such as .mobileconfigs, using a identity from your keychain |
 | [Hello-IT](https://github.com/ygini/Hello-IT) | Self support apps provided by IT services to end users. |
+| [Hexnode MDM Scripts](https://www.hexnode.com/mobile-device-management/help/mac-shell-scripting-resources/
+) | Sample Script Repository. |
 | [homebrew](https://brew.sh) | The missing package manager for macOS  |
 | [hyper](https://hyper.is/) | A terminal built on web technologies |
 | [Iceberg](http://s.sudre.free.fr/Software/Iceberg.html) | ... |
@@ -328,7 +330,7 @@
 | [Mike Solin](https://github.com/flammable) | Github, for [Profiles](https://github.com/flammable/profiles)|
 | [Neil Martin](https://github.com/neilmartin83) | Github |
 | [Nverse Lab](https://nverselab.com/) | Pushing the limits of Endpoint Management with Intune and Jamf |
-| [Oliver Kieselbach](https://github.com/okieselbach) | Github |
+| [Oliver Kieselbach](https://oliverkieselbach.com/) | IT influenced by Cloud and modern infrastructure principals. Always managed and up to date. Working from everywhere without barriers. for [Gitlab]([https://github.com/flammable/profiles](https://github.com/okieselbach)) |
 | [Peter van der Woude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
