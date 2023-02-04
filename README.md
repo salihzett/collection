@@ -28,6 +28,7 @@
 | [AutoPkgr](https://github.com/lindegroup/autopkgr/releases) | AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg. |
 | [AutoNBI.py](https://github.com/bruienne/autonbi) | A tool to automate (or not) the building and customization of Apple NetInstall Images. |
 | [BananaEndocarp](https://github.com/clburlison/BananaEndocarp) | BananaEndocarp is a scripted GUI for interacting with MunkiWebAdmin2's API. |
+| [Baseline](https://github.com/SecondSonConsulting/Baseline) | An MDM agnostic zero touch solution |
 | [BlackHole](https://github.com/ExistentialAudio/BlackHole) | BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. |
 | [Caffeine](http://lightheadsw.com/caffeine/) | ... |
 | [Chef](https://github.com/chef/chef) | Chef Infra, a powerful automation platform. |
@@ -153,6 +154,7 @@
 | [rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts) | useful scripts |
 | [Sal](https://github.com/salopensource/sal) | Modular reporting for Munki |
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
+| [ScreenNudge](https://github.com/bvanpeski/ScreenNudge) | A tool for prompting users to approve Screen Recording on macOS. |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
 | [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave |
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
@@ -324,9 +326,10 @@
 | [Greg Neagle](https://github.com/gregneagle) | Github |
 | [Hubert Maslowski](https://hmaslowski.com/home) | Unified Endpoint Management (UEM) Technical Blog |
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
+| [macOS Adventures](https://www.macosadventures.com/) | Journey through mac administration |
 | [HTMD blog](https://howtomanagedevices.com/) | Blog |
-| [Michael Rieder](https://macos.it-profs.de/) | macOS Enterprise Blog |
 | [MDM Tech Space by Joy](https://joymalya.com/) | Blog |
+| [Michael Rieder](https://macos.it-profs.de/) | macOS Enterprise Blog |
 | [Mike Solin](https://github.com/flammable) | Github, for [Profiles](https://github.com/flammable/profiles)|
 | [Mikael Löfgren](https://github.com/mikaellofgren) | Github|
 | [Neil Martin](https://github.com/neilmartin83) | Github |
@@ -335,5 +338,6 @@
 | [Peter van der Woude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
+| [techitout](https://techitout.xyz/) | Blog |
 | [travellingtechguy](https://travellingtechguy.blog/) | Blog |
 | [Tom Bridge](https://tombridge.com/) | ENGINEERING IS BEST WHEN IT'S DONE TO FURTHER HUMAN KINDNESS |
