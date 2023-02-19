@@ -317,6 +317,8 @@
 | --- | --- |
 | [Alan Siu](https://www.alansiu.net/munkiguide/) | Munki Guide for Schools |
 | [Almen](https://almenscorner.io/) | almen's MEM corner |
+| [Anoopcnair](https://www.anoopcnair.com/) | How to Manage Devices – HTMD #1 Blog |
+| [Appleshare](https://appleshare.it/) | Blog about Apple IT related matters |
 | [Aysiu](https://github.com/aysiu/Mac-Scripts-and-Profiles) | Scripts that modify system preferences on Mac OS X |
 | [Clayton Burlison](https://github.com/clburlison) | Github |
 | [DANIEL SELLERS](https://www.danielsellers.com/) | A talented and accomplished mobile systems engineer and trainer with 18 years of experience. |
