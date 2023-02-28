@@ -160,8 +160,9 @@
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
 | [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave. |
-| [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
 | [SimplePySSH](https://github.com/robperc/SimplePySSH) | Lightweight module for executing and reading output from simple commands on remote machines via SSH using only built-in modules. |
+| [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
+| [Sloth](https://github.com/sveinbjornt/Sloth) | Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. |
 | [SplashBuddy](https://github.com/Shufflepuck/SplashBuddy) | Onboarding splash screen for Jamf Pro. Improves DEP provisioning for macOS. |
 | [Step Two](https://apps.apple.com/us/app/step-two/id1448916662) | Simple two-step verification |
 | [super](https://github.com/Macjutsu/super) | S.U.P.E.R.M.A.N. optimizes the macOS software update experience.|
@@ -239,6 +240,7 @@
 | [dex](https://github.com/dexidp/dex) | OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors |
 | [komodor](https://komodor.com/) | Automate Kubernetes Troubleshooting. |
 | [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to log in and retrieve AWS temporary credentials using a SAML IDP  |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
 | [Portainer](https://www.portainer.io/) | Build and manage your Docker environments with ease today. |
 | [zentral](https://github.com/zentralopensource/zentral) | Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing.|
 
