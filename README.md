@@ -86,6 +86,7 @@
 | [Luficer](https://github.com/fjcaetano/Lucifer) | Tiny daemon to dim the MacBook keyboard backlight after inactivity |
 | [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
 | [Keka](http://www.kekaosx.com/de/) | ... |
+| [mac_admin](https://github.com/ducksrfr/mac_admin) | Helpful scripts & configuration profiles for the Mac admin community |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
 | [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
@@ -139,6 +140,7 @@
 | [PPPC-Utility](https://github.com/jamf/PPPC-Utility) | Privacy Preferences Policy Control (PPPC) Utility |
 | [PkgsCleaner](https://github.com/mikaellofgren/PkgsCleaner) | Read PKGs file, return uninstall-script |
 | [ProfileCreator](https://github.com/erikberglund/ProfileCreator) | macOS Application to create standard or customized configuration profiles. |
+| [ProfileManifestsMirror](https://github.com/Jamf-Custom-Profile-Schemas/ProfileManifestsMirror) | About Jamf JSON schema manifests automatically generated from ProfileCreator manifests. |
 | [ProfilSigner](https://github.com/nmcspadden/ProfileSigner) | ProfileSigner is a Python script that will encrypt and/or sign a .mobileconfig profile. |
 | [printer-pkginfo](https://github.com/HBBisenieks/printer-pkginfo) | Creates a nopkg style pkginfo file to install a printer with Munki. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
