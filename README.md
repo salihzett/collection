@@ -99,6 +99,7 @@
 | [MagicPrefs](http://magicprefs.com/plugins/) | MagicPrefs plugins |
 | [make-profile-pkg](https://github.com/timsutton/make-profile-pkg) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
 | [MakeMeAnAdmin](https://github.com/jamf/MakeMeAnAdmin) | Provides temporary admin access for a standard user via Jamf Self Service |
+| [Managed App Schema Builder](https://github.com/BIG-RAT/Managed-App-Schema-Builder) | Creates JSON file that can be used to set application preferences |
 | [Margarita](https://github.com/jessepeterson/margarita) | Web frontend for [reposado](https://github.com/wdas/reposado) |
 | [Mate: Universal Tab Translator](https://itunes.apple.com/de/app/mate-universal-tab-translator/id1005088137?l) | ... |
 | [mcxToProfile](https://github.com/timsutton/mcxToProfile) | Automate building and integrating OS X installer packages to install Configuration Profiles. |
@@ -157,7 +158,6 @@
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [ScreenNudge](https://github.com/bvanpeski/ScreenNudge) | A tool for prompting users to approve Screen Recording on macOS. |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
-| [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave |
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
 | [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave. |
