@@ -312,6 +312,7 @@
 | [objective-see - Lulu](https://objective-see.com/products/lulu.html) | is a free and open-source enterprise-grade network monitoring and network management platform. |
 | [otpspot](https://github.com/user2684/otpspot) | Wireless hotspot with OTP captive portal. |
 | [qr-image](https://github.com/alexeyten/qr-image) | Yet another QR code generator. |
+| [Scudo](https://www.murusfirewall.com/scudo/) | The most advanced firewall on the Mac App Store. |
 | [Shinken](http://www.shinken-monitoring.org) | Shinken is a monitoring framework. |
 | [Zapier](https://zapier.com/) | Connect your apps and automate workflows |
 
