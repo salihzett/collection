@@ -161,6 +161,7 @@
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
 | [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave. |
+| [Setup-Your-Mac](https://github.com/dan-snelson/Setup-Your-Mac) | Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment. |
 | [SimplePySSH](https://github.com/robperc/SimplePySSH) | Lightweight module for executing and reading output from simple commands on remote machines via SSH using only built-in modules. |
 | [smcFanControl](https://www.eidac.de) | Control Intel Mac fans to make them run cooler. |
 | [Sloth](https://github.com/sveinbjornt/Sloth) | Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. |
@@ -297,6 +298,7 @@
 | [freeradius-oauth2-perl](https://github.com/jimdigriz/freeradius-oauth2-perl) | describes how to set up FreeRADIUS using rlm_perl to communicate with an OAuth2 identity provider. |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | Heimdall is an elegant solution to organize all your web applications. |
 | [john](https://github.com/openwall/john) | John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs. |
+| [JSS-Scripts](https://github.com/bp88/JSS-Scripts) | Random scripts for use in the Jamf Pro. |
 | [Local RTMP Streaming Server](https://github.com/sallar/mac-local-rtmp-server) | A simple RTMP server for macOS. |
 | [MakeMeAdmin](https://github.com/pseymour/MakeMeAdmin) | Make Me Admin is a simple, open-source application for Windows that allows standard user accounts to be elevated to administrator-level, on a temporary basis. |
 | [MDS](https://twocanoes.com/products/mac/mac-deploy-stick/) | Deploy Intel and Apple Silicon Macs in Seconds |
