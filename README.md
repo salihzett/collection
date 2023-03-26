@@ -76,6 +76,7 @@
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
 | [Jamf-Device-Migrator](https://github.com/PezzaD84/Jamf-Device-Migrator) | Script to help migrate from one Jamf server to another Jamf server. |
+| [jamfHelper Constructor](https://github.com/BIG-RAT/jhc) | jamfHelper Constructor |
 | [jss-filevault-reissue](https://github.com/homebysix/jss-filevault-reissue) | A framework for re-escrowing missing or invalid FileVault keys with Jamf Pro. |
 | [LabWarden](https://github.com/execriez/LabWarden) | MacOS management tool for installing printers, applications and enforcing custom user and workstation policies |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
@@ -346,6 +347,7 @@
 | [Peter van der Woude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
+| [Scloud](https://github.com/FlorianSLZ/scloud) |Code Snippets mentioned at my Blog: scloud.work |
 | [techitout](https://techitout.xyz/) | Blog |
 | [travellingtechguy](https://travellingtechguy.blog/) | Blog |
 | [Tom Bridge](https://tombridge.com/) | ENGINEERING IS BEST WHEN IT'S DONE TO FURTHER HUMAN KINDNESS |
