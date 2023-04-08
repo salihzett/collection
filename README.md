@@ -75,6 +75,7 @@
 | [Installomator](https://github.com/scriptingosx/Installomator/) | Installation script to deploy standard software on Macs. [MDM script](https://github.com/Installomator/Installomator/blob/dev/MDM/App%20script.sh)|
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
+| [Jamf Compliance Editor](https://trusted.jamf.com/docs/establishing-compliance-baselines) | Establishing Compliance Baselines |
 | [Jamf-Device-Migrator](https://github.com/PezzaD84/Jamf-Device-Migrator) | Script to help migrate from one Jamf server to another Jamf server. |
 | [jamfHelper Constructor](https://github.com/BIG-RAT/jhc) | jamfHelper Constructor |
 | [jss-filevault-reissue](https://github.com/homebysix/jss-filevault-reissue) | A framework for re-escrowing missing or invalid FileVault keys with Jamf Pro. |
