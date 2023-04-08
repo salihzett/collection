@@ -343,7 +343,7 @@
 | [Mike Solin](https://github.com/flammable) | Github, for [Profiles](https://github.com/flammable/profiles)|
 | [Mikael Löfgren](https://github.com/mikaellofgren) | Github|
 | [Mostly Mac](https://mostlymac.blog/) | A Blog for (Mostly) Mac Things |
-| [Nathaniel Strauss](https://nwstrauss.com/) | Apple IT from beautiful Minnesota |
+| [Nathaniel Strauss](https://nwstrauss.com/) | Apple IT from beautiful Minnesota, [Scripts]([https://github.com/flammable/profiles](https://github.com/nstrauss/macos-management-scripts)) |
 | [Neil Martin](https://github.com/neilmartin83) | Github |
 | [Nverse Lab](https://nverselab.com/) | Pushing the limits of Endpoint Management with Intune and Jamf |
 | [Oliver Kieselbach](https://oliverkieselbach.com/) | IT influenced by Cloud and modern infrastructure principals. Always managed and up to date. Working from everywhere without barriers. for [Gitlab]([https://github.com/flammable/profiles](https://github.com/okieselbach)) |
