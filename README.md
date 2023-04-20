@@ -88,6 +88,7 @@
 | [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
 | [Keka](http://www.kekaosx.com/de/) | ... |
 | [mac_admin](https://github.com/ducksrfr/mac_admin) | Helpful scripts & configuration profiles for the Mac admin community |
+| [mac-monitor](https://github.com/redcanaryco/mac-monitor) | Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displaying them graphically, with an expansive feature set designed to reduce noise. |
 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | macOS command line tools for developers |
 | [MacModelShelf](https://github.com/MagerValp/MacModelShelf) | A small Python module that gives you nice human readable Macintosh model names, e.g. "iMac (27-inch, Late 2009)", when given a serial number or model code. |
 | [macnamer](https://github.com/grahamgilbert/macnamer) | A Django web app and Mac script to update a Mac's name. |
