@@ -183,6 +183,7 @@
 | [Typeeto](https://itunes.apple.com/de/app/typeeto-remote-bluetooth-tastatur/id970502923) | ... |
 | [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724) | ... |
 | [Umad](https://github.com/macadmins/umad) | [U]niversal [M]DM [A]pproval [D]ialog |
+| [unActivationLock](https://github.com/bvanpeski/unActivationLock) | A tool for ensuring user-based activation lock remains off. |
 | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | ... |
 | [WhereAmI](https://github.com/robmathers/WhereAmI) | A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework. |
 | [Xcreds](https://twocanoes.com/products/mac/xcreds/) | Log in to your Mac with your Cloud Password. |
@@ -263,6 +264,7 @@
 | [Azure Feedback](https://feedback.azure.com/) | This forum (General Feedback) is used for any broad feedback related to Azure. |
 | [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
 | [krypted](https://krypted.com/community/the-apple-toolchain/) | The-Apple-Toolchain |
+| [macosadventures](https://www.macosadventures.com/) | Journey through mac administration |
 | [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
 | [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) | Get the latest updates |
 | [Microsoft Office docu](https://docs.microsoft.com/en-us/office/) | Office documentation for admins and IT professionals |
