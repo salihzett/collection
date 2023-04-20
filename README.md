@@ -257,13 +257,18 @@
 | --- | --- |
 | [Apple URL Scheme Reference](https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007899-CH1-SW1) | This document describes several URL schemes that are supported by system apps on iOS, macOS, and watchOS 2 and later.|
 | [Azure Active Directory Webinar Community](https://techcommunity.microsoft.com/t5/azure-active-directory/azure-active-directory-webinar-community/m-p/796024#M3184) | ... |
+| [Azure Feedback](https://feedback.azure.com/) | This forum (General Feedback) is used for any broad feedback related to Azure. |
 | [Azure Mentor](https://azurementor.wordpress.com/) | For Microsoft Azure Practitioners |
 | [Bittan](https://www.bittitan.com/) | Migrate mailboxes, documents, and more to Office 365, Exchange, and G Suite with MigrationWiz. |
-| [Google Chrome PKG](https://cloud.google.com/chrome-enterprise/browser/download) | Google Chrome PKG for Intune |
+| [CIAOPS](https://blog.ciaops.com) | Information about SharePoint, Microsoft 365, Azure, Mobility and Productivity from the Computer Information Agency |
+| [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
 | [Firefox PKG](https://ftp.mozilla.org/pub/firefox/releases/74.0.1/mac/en-US/) | Firefox PKG for Intune |
-| [Azure Feedback](https://feedback.azure.com/) | This forum (General Feedback) is used for any broad feedback related to Azure. |
+| [Google Chrome PKG](https://cloud.google.com/chrome-enterprise/browser/download) | Google Chrome PKG for Intune |
+| [infrastrukturhelden](https://www.infrastrukturhelden.de) | Microsoft, Linux, Cloud und mehr |
 | [Intune Troubleshooting](https://aka.ms/intunetroubleshooting) | Intune Troubleshooting |
+| [inthecloud247](https://www.inthecloud247.com/) | INTUNE, EMS, OFFICE 365, MICROSOFT 365, AZURE |
 | [krypted](https://krypted.com/community/the-apple-toolchain/) | The-Apple-Toolchain |
+| [letsconfigmgr](https://letsconfigmgr.com/) | Microsoft, Linux, Cloud und mehr |
 | [macosadventures](https://www.macosadventures.com/) | Journey through mac administration |
 | [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
 | [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) | Get the latest updates |
@@ -271,23 +276,16 @@
 | [Service plan IDs for licensing](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-service-plan-reference) | Product names and service plan identifiers for licensing |
 | [MSEndpointMgr Intune](https://github.com/MSEndpointMgr/Intune) | Microsoft Intune scripts, [website](https://msendpointmgr.com)  |
 | [Microsoft Store app download](https://store.rg-adguard.net/) | Microsoft Store app download. |
-| [samltest](https://samltest.id/) | SAMLtest is a free SAML 2.0 testing service. |
-| [Dynamic group rule syntax](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/groups-dynamic-membership) | Dynamic membership rules for groups in Azure Active Directory |
 | [macosxbytes](https://macosxbytes.wordpress.com/) | ... |
-| [timmyit](https://timmyit.com) | Timmy Andersson, Senior consultant at CTGlobal, Microsoft Enterprise Mobility MVP  |
-| [inthecloud247](https://www.inthecloud247.com/) | INTUNE, EMS, OFFICE 365, MICROSOFT 365, AZURE |
+| [nverselab](https://nverselab.com/) | Pushing the limits of Endpoint Management with Intune and Jamf |
+| [o365reports](https://o365reports.com/) | All About Office 365 |
 | [practical365](https://practical365.com/) | to provide relevant, actionable advice on all things Microsoft, straight from the experts themselves.  |
+| [timmyit](https://timmyit.com) | Timmy Andersson, Senior consultant at CTGlobal, Microsoft Enterprise Mobility MVP  |
 | [thelazyadministrator](https://www.thelazyadministrator.com/) | finding ways to do the most work with the least effort possible |
 | [petervanderwoude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
-| [o365reports](https://o365reports.com/) | All About Office 365 |
-| [CIAOPS](https://blog.ciaops.com) | Information about SharePoint, Microsoft 365, Azure, Mobility and Productivity from the Computer Information Agency |
-| [infrastrukturhelden](https://www.infrastrukturhelden.de) | Microsoft, Linux, Cloud und mehr |
-| [letsconfigmgr](https://letsconfigmgr.com/) | Microsoft, Linux, Cloud und mehr |
+| [samltest](https://samltest.id/) | SAMLtest is a free SAML 2.0 testing service. |
 | [teamsnation](https://www.teamsnation.online/) | Together Everybody Achieves More |
 | [Tom Talks](https://tomtalks.blog/) | Microsoft Teams and Microsoft 365 news and opinions |
-
-
-
 
 
 
