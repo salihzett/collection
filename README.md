@@ -148,6 +148,7 @@
 | [printer-pkginfo](https://github.com/HBBisenieks/printer-pkginfo) | Creates a nopkg style pkginfo file to install a printer with Munki. |
 | [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) | Generate specific pkginfos for printers with nopkg method |
 | [Privileges](https://github.com/SAP/macOS-enterprise-privileges) | For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS. |
+| [PrivilegesDemoter](https://github.com/sgmills/PrivilegesDemoter) | Allow users to self manage admin privileges, while reminding them to operate as standard whenever possible. |
 | [pycreateuserpkg](https://github.com/gregneagle/pycreateuserpkg) | Python tool to create macOS packages that create user accounts |
 | [pyLoginItems](https://github.com/pudquick/pyLoginItems) | python module for manipulating user login items (when run as the user) |
 | [quickpkg](https://github.com/scriptingosx/quickpkg) | wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive. |
@@ -270,8 +271,9 @@
 | [krypted](https://krypted.com/community/the-apple-toolchain/) | The-Apple-Toolchain |
 | [letsconfigmgr](https://letsconfigmgr.com/) | Microsoft, Linux, Cloud und mehr |
 | [macosadventures](https://www.macosadventures.com/) | Journey through mac administration |
-| [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
 | [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap) | Get the latest updates |
+| [Microsoft Endpoint Manager Intune Feedback](https://microsoftintune.uservoice.com) | Suggestion box powered by UserVoice |
+| [Microsoft Intune Automation and Scripting Samples](https://aka.ms/IntuneScripts) | The Intune GitHub scripts repos are intended to help Intune administrators better understand how to utilize the Graph and PowerShell modules for automation. |
 | [Microsoft Office docu](https://docs.microsoft.com/en-us/office/) | Office documentation for admins and IT professionals |
 | [Service plan IDs for licensing](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-service-plan-reference) | Product names and service plan identifiers for licensing |
 | [MSEndpointMgr Intune](https://github.com/MSEndpointMgr/Intune) | Microsoft Intune scripts, [website](https://msendpointmgr.com)  |
@@ -330,6 +332,7 @@
 | [Appleshare](https://appleshare.it/) | Blog about Apple IT related matters |
 | [Aysiu](https://github.com/aysiu/Mac-Scripts-and-Profiles) | Scripts that modify system preferences on Mac OS X |
 | [bigmacadmin](https://bigmacadmin.wordpress.com/) | Bitesize servings of technology and musings |
+| [Charbel Nemnom](https://charbelnemnom.com/) | Cloud & Cybersecurity |
 | [Clayton Burlison](https://github.com/clburlison) | Github |
 | [DANIEL SELLERS](https://www.danielsellers.com/) | A talented and accomplished mobile systems engineer and trainer with 18 years of experience. |
 | [Erik Gomez](https://blog.eriknicolasgomez.com/) | Blog |
@@ -337,7 +340,9 @@
 | [Graham Walsh](https://www.graham-walsh.com/) | Blog |
 | [Greg Neagle](https://github.com/gregneagle) | Github |
 | [Hubert Maslowski](https://hmaslowski.com/home) | Unified Endpoint Management (UEM) Technical Blog |
+| [Jacob Burley](https://jc0b.computer/) | ... |
 | [Jeff Schmertz's Blog - Microsoft MVP](http://blog.schertz.name/) | ... |
+| [Kevin M. Cox](https://www.kevinmcox.com/) | Technology Blog |
 | [macOS Adventures](https://www.macosadventures.com/) | Journey through mac administration |
 | [HTMD blog](https://howtomanagedevices.com/) | Blog |
 | [MDM Tech Space by Joy](https://joymalya.com/) | Blog |
@@ -345,6 +350,8 @@
 | [Mike Solin](https://github.com/flammable) | Github, for [Profiles](https://github.com/flammable/profiles)|
 | [Mikael Löfgren](https://github.com/mikaellofgren) | Github|
 | [Mostly Mac](https://mostlymac.blog/) | A Blog for (Mostly) Mac Things |
+| [Mr B](https://github.com/mrbernardmah) | I work in IT. My day to day of work evolves around Microsoft Azure, Microsoft Intune, Endpoint Manager, Patch Management, SOE, Jamf Pro, PowerApps and more. |
+| [Mr. Macintosh](https://mrmacintosh.com/) | Apple Macintosh & macOS News – Troubleshooting – Problem Reporting – How to Articles |
 | [Nathaniel Strauss](https://nwstrauss.com/) | Apple IT from beautiful Minnesota, [Scripts](https://github.com/nstrauss/macos-management-scripts) |
 | [Neil Martin](https://github.com/neilmartin83) | Github |
 | [Nverse Lab](https://nverselab.com/) | Pushing the limits of Endpoint Management with Intune and Jamf |
@@ -352,7 +359,7 @@
 | [Peter van der Woude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
-| [Scloud](https://github.com/FlorianSLZ/scloud) |Code Snippets mentioned at my Blog: scloud.work |
+| [Scloud](https://scloud.work/) |Code Snippets mentioned at my Blog: scloud.work [Github](https://github.com/FlorianSLZ/scloud)  |
 | [Silent Install HQ](https://silentinstallhq.com/) | SilentInstallHQ.com was created to become the go-to informational resource regarding silent installs and unattended command line switches. |
 | [techitout](https://techitout.xyz/) | Blog |
 | [travellingtechguy](https://travellingtechguy.blog/) | Blog |
