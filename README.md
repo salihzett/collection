@@ -51,6 +51,7 @@
 | [DropDMG](http://c-command.com/dropdmg/) | ... |
 | [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
 | [erase-install](https://github.com/grahampugh/erase-install) | A script that automates downloading macOS installers and erasing or upgrading macOS in a single process. |
+| [escrow-buddy](https://github.com/macadmins/escrow-buddy) | A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs. |
 | [fing.io](https://www.fing.com/products/fing-desktop) | IP Network Scanner |
 | [Extract App Resource Icons](https://gist.github.com/benwaldie/5431981) | Extract App Resource Icons with AppleScript |
 | [fing.io](https://www.fing.com/products/fing-desktop) | IP Network Scanner |
@@ -75,10 +76,8 @@
 | [Installomator](https://github.com/scriptingosx/Installomator/) | Installation script to deploy standard software on Macs. [MDM script](https://github.com/Installomator/Installomator/blob/dev/MDM/App%20script.sh)|
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
-| [Jamf Compliance Editor](https://trusted.jamf.com/docs/establishing-compliance-baselines) | Establishing Compliance Baselines |
-| [Jamf-Device-Migrator](https://github.com/PezzaD84/Jamf-Device-Migrator) | Script to help migrate from one Jamf server to another Jamf server. |
-| [jamfHelper Constructor](https://github.com/BIG-RAT/jhc) | jamfHelper Constructor |
 | [jss-filevault-reissue](https://github.com/homebysix/jss-filevault-reissue) | A framework for re-escrowing missing or invalid FileVault keys with Jamf Pro. |
+| [jq](https://github.com/jqlang/jq) | jq is a lightweight and flexible command-line JSON processor. |
 | [LabWarden](https://github.com/execriez/LabWarden) | MacOS management tool for installing printers, applications and enforcing custom user and workstation policies |
 | [LaunchControl](http://www.soma-zone.com/LaunchControl/) | Create, manage and debug launchd(8) services. |
 | [Lilu](https://github.com/acidanthera/Lilu) | Arbitrary kext and process patching on macOS |
@@ -86,6 +85,7 @@
 | [LowProfile](https://github.com/ninxsoft/LowProfile) | A Mac utility to help inspect Apple Configuration Profile payloads. |
 | [Luficer](https://github.com/fjcaetano/Lucifer) | Tiny daemon to dim the MacBook keyboard backlight after inactivity |
 | [Kandji MDM](https://www.kandji.io/) | The modern Apple MDM. |
+| [kmfddm](https://github.com/jessepeterson/kmfddm) | KMFDDM is an Apple Declarative Device Management (DDM) server. It works together with NanoMDM. |
 | [Keka](http://www.kekaosx.com/de/) | ... |
 | [mac_admin](https://github.com/ducksrfr/mac_admin) | Helpful scripts & configuration profiles for the Mac admin community |
 | [mac-monitor](https://github.com/redcanaryco/mac-monitor) | Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displaying them graphically, with an expansive feature set designed to reduce noise. |
@@ -112,7 +112,7 @@
 | [mist-cli](https://github.com/ninxsoft/mist-cli) | A Mac command-line tool that automatically downloads macOS Firmwares / Installers. |
 | [montereyblocker](https://github.com/Theile/montereyblocker) | Block macOS Monterey installer app from launching on macOS Big Sur or Catalina. |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
-| [mosyle Profiles](https://github.com/acodega/mosyle) | Command attributes and custom commands to use with Mosyle MDM |
+| [mosyle CA](https://github.com/acodega/mosyle) | Command attributes and custom commands to use with Mosyle MDM |
 | [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
 | [munki-pkg](https://github.com/munki/munki-pkg) | Repo for the munkipkg tool and example projects |
@@ -185,6 +185,7 @@
 | [Tyme2](https://itunes.apple.com/de/app/tyme-2/id1063996724) | ... |
 | [Umad](https://github.com/macadmins/umad) | [U]niversal [M]DM [A]pproval [D]ialog |
 | [unActivationLock](https://github.com/bvanpeski/unActivationLock) | A tool for ensuring user-based activation lock remains off. |
+| [uninstaller](https://github.com/erikstam/uninstaller) | macOS uninstaller script |
 | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | ... |
 | [WhereAmI](https://github.com/robmathers/WhereAmI) | A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework. |
 | [Xcreds](https://twocanoes.com/products/mac/xcreds/) | Log in to your Mac with your Cloud Password. |
@@ -327,6 +328,7 @@
 | name | description |
 | --- | --- |
 | [Alan Siu](https://www.alansiu.net/munkiguide/) | Munki Guide for Schools |
+| [Alex Andrumarin](https://www.alexandrumarin.com/blog/) | Blog |
 | [Almen](https://almenscorner.io/) | almen's MEM corner |
 | [Anoopcnair](https://www.anoopcnair.com/) | How to Manage Devices – HTMD #1 Blog |
 | [Appleshare](https://appleshare.it/) | Blog about Apple IT related matters |
