@@ -162,6 +162,7 @@
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [ScreenNudge](https://github.com/bvanpeski/ScreenNudge) | A tool for prompting users to approve Screen Recording on macOS. |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
+| [Script2Pkg](https://github.com/SAP/script-to-package-tool-for-macos) | The script to package app is an application for creating installer packages for macOS whose only purpose is to run an embedded script. |
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
 | [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave. |
@@ -173,6 +174,7 @@
 | [Step Two](https://apps.apple.com/us/app/step-two/id1448916662) | Simple two-step verification |
 | [super](https://github.com/Macjutsu/super) | S.U.P.E.R.M.A.N. optimizes the macOS software update experience.|
 | [SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | Full Backup Tool |
+| [SupportApp](https://github.com/root3nl/SupportApp) | The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg). |
 | [sus-inspector](https://github.com/hjuutilainen/sus-inspector) | Inspect Apple software update service. |
 | [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) | An Application for Inspecting macOS Installer Packages. |
 | [swiftDialog](https://github.com/bartreardon/swiftDialog) | Create user-notifications on macOS with swiftDialog. |
@@ -359,6 +361,7 @@
 | [Nverse Lab](https://nverselab.com/) | Pushing the limits of Endpoint Management with Intune and Jamf |
 | [Oliver Kieselbach](https://oliverkieselbach.com/) | IT influenced by Cloud and modern infrastructure principals. Always managed and up to date. Working from everywhere without barriers. for [Gitlab]([https://github.com/flammable/profiles](https://github.com/okieselbach)) |
 | [Peter van der Woude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
+| [Poem to MDM](https://poemtomdm.fr/) | ... |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
 | [Scloud](https://scloud.work/) |Code Snippets mentioned at my Blog: scloud.work [Github](https://github.com/FlorianSLZ/scloud)  |
