@@ -48,8 +48,9 @@
 | [DMGcanvas](https://www.araelium.com/dmgcanvas) |Stylized disk images made easy. |
 | [Docker](https://www.docker.com) | Build, Ship, and Run Any App, Anywhere |
 | [dotfiles](https://dotfiles.github.io/) | |
-| [DropDMG](http://c-command.com/dropdmg/) | ... |
 | [dockutil](https://github.com/kcrawford/dockutil) | command line tool for managing dock items [here](http://patternbuffer.wordpress.com) |
+| [DropDMG](http://c-command.com/dropdmg/) | ... |
+| [duti](https://github.com/moretension/duti/) | A command-line tool to select default applications for document types and URL schemes on Mac OS X |
 | [erase-install](https://github.com/grahampugh/erase-install) | A script that automates downloading macOS installers and erasing or upgrading macOS in a single process. |
 | [escrow-buddy](https://github.com/macadmins/escrow-buddy) | A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs. |
 | [fing.io](https://www.fing.com/products/fing-desktop) | IP Network Scanner |
@@ -367,5 +368,6 @@
 | [Scloud](https://scloud.work/) |Code Snippets mentioned at my Blog: scloud.work [Github](https://github.com/FlorianSLZ/scloud)  |
 | [Silent Install HQ](https://silentinstallhq.com/) | SilentInstallHQ.com was created to become the go-to informational resource regarding silent installs and unattended command line switches. |
 | [techitout](https://techitout.xyz/) | Blog |
+| [Tom Wechsler](https://www.winsolution.ch/) | Blog |
 | [travellingtechguy](https://travellingtechguy.blog/) | Blog |
 | [Tom Bridge](https://tombridge.com/) | ENGINEERING IS BEST WHEN IT'S DONE TO FURTHER HUMAN KINDNESS |
