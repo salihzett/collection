@@ -114,6 +114,7 @@
 | [montereyblocker](https://github.com/Theile/montereyblocker) | Block macOS Monterey installer app from launching on macOS Big Sur or Catalina. |
 | [moroz](https://github.com/groob/moroz) | Moroz is a Santa server |
 | [mosyle CA](https://github.com/acodega/mosyle) | Command attributes and custom commands to use with Mosyle MDM |
+| [Mountshare](https://github.com/ehemmete/mountshare) | A Swift command line tool to mount network shares |
 | [Munin](http://munin-monitoring.org) | Munin is a networked resource monitoring tool. |
 | [munki](https://github.com/munki/munki) | Managed software installation for OS X |
 | [munki-pkg](https://github.com/munki/munki-pkg) | Repo for the munkipkg tool and example projects |
@@ -136,8 +137,10 @@
 | [Outset](https://github.com/chilcote/outset) | Automatically process packages, profiles, and scripts during boot, login, or on demand. |
 | [Pacifist](https://www.charlessoft.com) | ... |
 | [Packages](http://packages.debian.org) | ... |
-| [Paket Sender](https://packetsender.com) | Packet Sender is for sending / receiving of network packets. |
+| [Paket Sender](https://packetsender.com) | Packet Sender is for sending/receiving of network packets. |
+| [Patchomator](https://github.com/Mac-Nerd/patchomator) | Management script for Installomator. |
 | [Payload-Free-Package-Creatorio](https://github.com/rtrouton/Payload-Free-Package-Creator) | Payload-Free Package Creator.app is an Automator application that uses AppleScript, shell scripting and pkgbuild behind the scenes to create payload-free packages.|
+| [PIN-for-Admin](https://github.com/Sdelsaz/PIN-for-Admin) | This script allows users to request temporary admin privileges. When the time is up it demotes the user and any other accounts that did not originally have admin privileges. The privileges are only granted if the user is able to provide a random PIN that the script generates and sends to an attribute of choice in Jamf Pro. |
 | [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) | ... |
 | [Platypus](https://github.com/sveinbjornt/Platypus) | Create Mac applications from command line scripts |
 | [Power Manager](https://www.dssw.co.uk/powermanager/) | Power Manager lets you automate sophisticated tasks and improve your Mac's power management. |
@@ -163,7 +166,7 @@
 | [Santa](https://github.com/google/santa) | A binary whitelisting/blacklisting system for Mac OS X |
 | [ScreenNudge](https://github.com/bvanpeski/ScreenNudge) | A tool for prompting users to approve Screen Recording on macOS. |
 | [ScreenSharingMonitor](https://github.com/mm2270/ScreenSharingMonitor) | A process for end user notifications of screen sharing session starts and ends|
-| [Script2Pkg](https://github.com/SAP/script-to-package-tool-for-macos) | The script to package app is an application for creating installer packages for macOS whose only purpose is to run an embedded script. |
+| [Script2Pkg](https://github.com/SAP/script-to-package-tool-for-macos) | The script to package app is an application for creating installer packages for macOS whose only purpose is to run an embedded script. [Manual](https://derflounder.wordpress.com/2023/05/02/using-script2pkg-to-create-payload-free-installer-packages/) |
 | [ScriptRepo](https://github.com/aarondavidpolley/ScriptRepo) | Repository of scripts used for macOS management |
 | [Sequel Pro](https://github.com/sequelpro/sequelpro) | Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases. |
 | [Secretive](https://github.com/maxgoedjen/secretive) | Store SSH keys in the Secure Enclave. |
@@ -363,6 +366,7 @@
 | [Oliver Kieselbach](https://oliverkieselbach.com/) | IT influenced by Cloud and modern infrastructure principals. Always managed and up to date. Working from everywhere without barriers. for [Gitlab]([https://github.com/flammable/profiles](https://github.com/okieselbach)) |
 | [Peter van der Woude](https://www.petervanderwoude.nl/) | Peter blogs about Configuration Manager, Microsoft Intune and more |
 | [Poem to MDM](https://poemtomdm.fr/) | ... |
+| [Power of Powershell](https://www.powerofpowershell.com/) | You’ve Arrived! Power Of PowerShell, [Github](https://github.com/POWERSHELLCAM) |
 | [Robert I. Percival](https://github.com/robperc) | Github |
 | [rtrouton](https://github.com/rtrouton) | Github |
 | [Scloud](https://scloud.work/) |Code Snippets mentioned at my Blog: scloud.work [Github](https://github.com/FlorianSLZ/scloud)  |
