@@ -18,6 +18,7 @@
 | [Affinity Photo](https://itunes.apple.com/de/app/affinity-photo/id824183456) | ... |
 | [Apparency](https://mothersruin.com/software/Apparency/get.html) | ... |
 | [AppBlocker](https://github.com/erikberglund/AppBlocker) | Block applications by their bundle identifier from launching in the Finder |
+| [Applite](https://aerolite.dev/applite/index.html) | Applite uses the Homebrew package manager under the hood. Homebrew is a free and open source project that makes it easy to install developer tools and desktop applications on macOS. |
 | [Apple Configurator 2](https://itunes.apple.com/de/app/apple-configurator-2/id1037126344) | ... |
 | [Apple Remote Desktop](https://itunes.apple.com/de/app/apple-remote-desktop/id409907375) | ... |
 | [ApplePi-Baker](https://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) | Tool to create OS for raspberry |
@@ -75,6 +76,8 @@
 | [InstallApplications Demo](https://github.com/erikng/installapplicationsdemo) | a demo repo for InstallApplications |
 | [InstallApplications Swiftly](https://github.com/MichalMMac/installapplications-swiftly) | Swift successor to InstallApplications |
 | [Installomator](https://github.com/scriptingosx/Installomator/) | Installation script to deploy standard software on Macs. [MDM script](https://github.com/Installomator/Installomator/blob/dev/MDM/App%20script.sh)|
+| [IntuneCD](https://github.com/erikng/installapplications) | Tool to backup, update and document configurations in Intune [Introducing](https://almenscorner.io/introducing-intunecd-tool/) |
+| [IntuneCD-Monitor](https://github.com/almenscorner/intunecd-monitor) | IntuneCD front end, monitor configurations and changes in Intune |
 | [iStat Menus](https://bjango.com/mac/istatmenus/) | ... |
 | [iThoughtX](https://itunes.apple.com/de/app/ithoughtsx-mindmap/id720669838) | ... |
 | [jss-filevault-reissue](https://github.com/homebysix/jss-filevault-reissue) | A framework for re-escrowing missing or invalid FileVault keys with Jamf Pro. |
@@ -183,6 +186,7 @@
 | [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) | An Application for Inspecting macOS Installer Packages. |
 | [swiftDialog](https://github.com/bartreardon/swiftDialog) | Create user-notifications on macOS with swiftDialog. |
 | [tart](https://github.com/cirruslabs/tart) | macOS and Linux VMs on Apple Silicon to use in CI and other automations. |
+| [TableTool](https://github.com/jakob/TableTool) | A simple CSV editor for the Mac |
 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | Send User Notifications on Mac OS X 10.8 from the command-line. |
 | [Things](https://itunes.apple.com/de/app/things/id407951449) | ... |
 | [TRex](https://github.com/amebalabs/TRex) | Copy any text on your screen, stop retyping. |
@@ -234,6 +238,7 @@
 | [Scripting OS X](https://scriptingosx.com) | #! is not a curse word |
 | [The Chromium Projects](http://dev.chromium.org) | The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, respectively. |
 | [Web: macOS SSH Key](http://www.macadminmonthly.org) | Saving SSH keys in macOS Sierra keychain |
+| [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps |
 | [other macOSs](https://support.apple.com/en-us/HT211683) | Click on the link to get older macOSs|
 | [macOS Sierra](https://itunes.apple.com/gb/app/macos-sierra/id1127487414) | Click on the link to get macOS Sierra (10.12.6) |
 | [macOS High Sierra](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741) | Click on the link to get macOS High Sierra (10.13.6) |
@@ -241,8 +246,6 @@
 | [macOS Catalina](https://itunes.apple.com/de/app/macos-catalina/id1466841314) | Click on the link to get macOS Mojave (10.15.x)|
 | [macOS BigSur](https://apps.apple.com/us/app/macos-big-sur/id1526878132) | Click on the link to get macOS Mojave (11.x)|
 | [Uber Eng](https://eng.uber.com/scaling-mobile-device-management-at-uber/) | ... |
-
-
 
 
 
